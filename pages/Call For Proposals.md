@@ -60,4 +60,4 @@ Irene_LL_LIM@nlb.gov.sg
 5.	All attendees, including Presenter(s), are required to register and pay the full registration fee of the Symposium. 
 
 6.	Please email your enquiries (if any) to:
-      nlbsarbica2022@nlb.gov.sg 
+      nlbsarbica2022@nlb.gov.sg
