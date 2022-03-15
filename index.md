@@ -16,11 +16,11 @@ sections:
         - title: Call for Proposals
           description: More info here
           url: /callforproposals
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: (to be decided)
+          description: link here to be decided
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: (to be decided)
+          description: (to be decided)
           url: /privacy/
   - infobar:
       title: Infobar title
