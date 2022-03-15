@@ -2,5 +2,6 @@ collections:
   collection:
     output: true
     order:
+      - Keynotes.md
       - page/.keep
       - page/sub-page.md
