@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Call for Proposals
           description: More info here
-          url: ""
+          url: /callforproposals
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
