@@ -50,17 +50,22 @@ We invite submission of proposals from interested parties on any of the above to
 
 Deadline for submission of proposals: 
 31 May 2022
+
 Notification of accepted proposals:                                                                       
-29 July  2022 
+29 July 2022 
+
 Deadline for confirmation to present at the Virtual Symposium:
+
 16 August 2022
+
 Submission of presentation materials:                                                            
 6 October 2022
+
 Virtual Symposium:                                                                       
 16 and 17 November 2022 	                                               
 
 		
-DETAILS TO NOTE:
+**DETAILS TO NOTE:**
 
 1.	Submit proposal in English via e-mail as an MS Word file by 9 May 2022 to:
 Irene_LL_LIM@nlb.gov.sg 
@@ -77,7 +82,7 @@ Irene_LL_LIM@nlb.gov.sg
 
 3.	The Organisers will review all submitted proposals and will notify the proponents via email, on the review outcomes by 15 July 2022.
 
-4.	Accepted proponents must confirm if they are able to present at the Symposium  by 29 July 2022.  Presentation materials must be submitted to the Organisers by 16 September 2022.
+4.	Accepted proponents must confirm if they are able to present at the Symposium by 29 July 2022.  Presentation materials must be submitted to the Organisers by 16 September 2022.
 
 5.	All attendees, including Presenter(s), are required to register and pay the full registration fee of the Symposium. 
 
