@@ -17,7 +17,7 @@ sections:
           description: More info here
           url: /callforproposals
         - title: (to be decided)
-          description: link here to be decided
+          description: (to be decided)
           url: https://gmail.com
         - title: (to be decided)
           description: (to be decided)
