@@ -23,7 +23,7 @@ The NAS is an institution of the National Library Board (NLB). NAS is guided
 
 •	Make known information concerning archives by any means, including publications, exhibitions and heritage promotional activities. 
 
-Visit us at https://corporate.nas.gov.sg/ . 
+Visit us at [https://corporate.nas.gov.sg](https://corporate.nas.gov.sg)/ . 
 
 #### About the Southeast Asia Regional Branch of the International Council on Archives
 
