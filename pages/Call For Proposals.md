@@ -68,7 +68,7 @@ Irene_LL_LIM@nlb.gov.sg
 •	Name and institution  of proponent(s)
 •	Bio, maximum of 250 words per proponent 
 
-3.	The Organisers will review all submitted proposals and will notify the proponents via email, on the review outcomes   by 15 July 2022.
+3.	The Organisers will review all submitted proposals and will notify the proponents via email, on the review outcomes by 15 July 2022.
 
 4.	Accepted proponents must confirm if they are able to present at the Symposium  by 29 July 2022.  Presentation materials must be submitted to the Organisers by 16 September 2022.
 
