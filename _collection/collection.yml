@@ -2,6 +2,6 @@ collections:
   collection:
     output: true
     order:
-      - Programme.md
+      - Conference Theme.md
       - page/.keep
       - page/sub-page.md
