@@ -3,14 +3,13 @@ title: About Us
 permalink: /aboutus
 description: ""
 ---
-
 #### About the National Archives of Singapore
 
 The National Archives of Singapore (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved. 
 
 The immensely rich collection continues to grow as NAS fulfils its mission to actively acquire records that will serve as the corporate memory of the Government and the social memory of our people. This memory allows current and future generations of Singaporeans to understand our different cultures, explore our common heritage and appreciate who we are and how we became  a nation. 
 
-Our Mandate 
+**Our Mandate**
 
 The NAS is an institution of the National Library Board (NLB). NAS is guided by the National Library Act to: 
 
