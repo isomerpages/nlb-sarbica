@@ -8,11 +8,9 @@ notification: More info will be released soon!
 sections:
   - hero:
       title: 2022 VIRTUAL SARBICA INTERNATIONAL SYMPOSUM
-      subtitle: "16 and 17 November
-        2022                                               Hosted by the
-        National Archives of Singapore "
+      subtitle: "16 and 17 November Hosted by the National Archives of Singapore "
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Register Here
       url: /contact-us/
       key_highlights:
         - title: Call for Proposals
