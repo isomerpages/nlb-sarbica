@@ -8,3 +8,5 @@ links:
     collection: programme
   - title: Registration
     resource_room: true
+  - title: Registration
+    url: /registrationdetails
