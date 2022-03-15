@@ -63,9 +63,13 @@ DETAILS TO NOTE:
 Irene_LL_LIM@nlb.gov.sg 
 
 2.	The proposal should include: 
+
 •	Title of proposal
+
 •	Abstract, maximum of 250 words 
-•	Name and institution  of proponent(s)
+
+•	Name and institution of proponent(s)
+
 •	Bio, maximum of 250 words per proponent 
 
 3.	The Organisers will review all submitted proposals and will notify the proponents via email, on the review outcomes by 15 July 2022.
