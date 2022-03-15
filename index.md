@@ -11,7 +11,7 @@ sections:
       subtitle: "16 and 17 November Hosted by the National Archives of Singapore "
       background: /images/hero-banner.png
       button: Register Here
-      url: /contact-us/
+      url: /registrationdetails
       key_highlights:
         - title: Call for Proposals
           description: More info here
