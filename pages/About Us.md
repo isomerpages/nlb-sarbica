@@ -3,6 +3,8 @@ title: About Us
 permalink: /aboutus
 description: ""
 ---
+![](/images/Logo_SARBICA_New.jpg)
+![](/images/NAS%20JPEG%20COLOUR.jpg)
 #### About the National Archives of Singapore
 
 The National Archives of Singapore (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved. 
