@@ -3,7 +3,7 @@ title: About Us
 permalink: /aboutus
 description: ""
 ---
-About the National Archives of Singapore
+#### About the National Archives of Singapore
 
 The National Archives of Singapore (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved. 
 
@@ -25,7 +25,7 @@ The NAS is an institution of the National Library Board (NLB). NAS is guided
 
 Visit us at https://corporate.nas.gov.sg/ . 
 
-About the Southeast Asia Regional Branch of the International Council on Archives
+#### About the Southeast Asia Regional Branch of the International Council on Archives
 
 The Southeast Asia Regional Branch of the International Council on Archives (SARBICA) is the first Regional Branch of the International Council on Archives (ICA). SARBICA was established on 9 July 1968 at an inaugural conference held in Kuala Lumpur, Malaysia in 1968. Its purpose was to promote collaboration among the nations in the region in the administration, preservation, conservation and use of archives.
 
