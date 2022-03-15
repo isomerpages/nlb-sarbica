@@ -46,7 +46,7 @@ Topics of interest include but are not limited to the following:
 We invite submission of proposals from interested parties on any of the above topics. Other thematically-related topics not listed here, are also welcome for consideration.
 
 
-TIMELINE AT A GLANCE:
+**TIMELINE AT A GLANCE:**
 
 Deadline for submission of proposals: 
 31 May 2022
