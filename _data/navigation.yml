@@ -4,7 +4,7 @@ links:
     url: /aboutus
   - title: Page
     url: /page/
-  - title: Collection
-    collection: collection
+  - title: Programme
+    collection: programme
   - title: Resource
     resource_room: true
