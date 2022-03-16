@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Message from SARBICA Chair
+    url: /permalink
   - title: About Us
     url: /aboutus
   - title: Call For Proposals
@@ -8,5 +10,3 @@ links:
     collection: programme
   - title: Registration
     url: /registrationdetails
-  - title: Message from SARBICA Chair
-    url: /permalink
