@@ -2,4 +2,5 @@ collections:
   programme:
     output: true
     order:
+      - Message from SARBICA Chair.md
       - Keynotes.md
