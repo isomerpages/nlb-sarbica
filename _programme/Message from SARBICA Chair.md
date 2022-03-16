@@ -12,7 +12,7 @@ The 2022 Virtual SARBICA International Symposium will be on the theme of “Pres
 The symposium provides a forum for us to network, share and learn from one another, and it is my pleasure to invite you to join the event as participants and speakers. On this note, may I seek your support and active contributions to the Call for Papers.  
 
 I look forward to welcoming you virtually this November and together, we make the 2022 Virtual SARBICA International Symposium a successful event.
-	
+
 JULIA CHEE
 Chair of SARBICA (2021-2023) /
 Director, National Archives of Singapore
