@@ -16,9 +16,9 @@ sections:
         - title: Call for Proposals
           description: More info here
           url: /callforproposals
-        - title: (to be decided)
-          description: (to be decided)
-          url: https://gmail.com
+        - title: Message from SARBICA Chair
+          description: Click here to read
+          url: /programme/messagefromsarbicachair
         - title: (to be decided)
           description: (to be decided)
           url: /privacy/
