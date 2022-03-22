@@ -3,7 +3,7 @@ title: "About National Archives of Singapore "
 permalink: /about-us/nas
 description: ""
 ---
-About the National Archives of Singapore
+## ![](/images/NAS%20JPEG%20COLOUR.jpg)About the National Archives of Singapore
 
 The  National Archives of Singapore (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved.
  
@@ -23,4 +23,4 @@ The NAS is an institution of the National Library Board (NLB). NAS is guided
  
 • Make known information concerning archives by any means, including publications, exhibitions and heritage promotional activities.
  
-Visit us at http://www.nas.gov.sg. 
+Visit us at http://www.nas.gov.sg.
