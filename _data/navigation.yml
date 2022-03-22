@@ -3,7 +3,7 @@ links:
   - title: Message from SARBICA Chair
     url: /programme/messagefromsarbicachair
   - title: About Us
-    url: /aboutus
+    collection: about-us
   - title: Call For Proposals
     url: /page/
   - title: Programme
