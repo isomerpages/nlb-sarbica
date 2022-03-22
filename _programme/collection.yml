@@ -2,5 +2,5 @@ collections:
   programme:
     output: true
     order:
-      - Message from SARBICA Chair.md
+      - Symposium Theme.md
       - Keynote 1.md
