@@ -15,19 +15,25 @@ The environmental reality of the global climate crisis leading to unstable ecosy
 
 Topics of interest include but are not limited to the following: 
 
- <p style="line-height:0.5">
+  <p style="line-height:0.5">
 • Traditional archiving practices versus modern preservation efforts and their impact on the environment
-	
+</p>
+ <p style="line-height:0.5">
 • Environmental impact of digital preservation
-
+</p>
+ <p style="line-height:0.5">
 • Understanding climate change and sustainability
-
+</p>
+ <p style="line-height:0.5">
 • Impact of climate change and disasters on archival collections and facilities and the archives’ response
-
+</p>
+ <p style="line-height:0.5">
 • Sustainability in conservation
-	 
+</p>
+ <p style="line-height:0.5">
 • Sustainable preservation methods
 </p>
+
 
 
 
