@@ -15,6 +15,7 @@ I look forward to welcoming you virtually this November and together, we make th
 	
 
 
-JULIA CHEE
+**JULIA CHEE**
+
 Chair of SARBICA (2021-2023) /
 Director, National Archives of Singapore
