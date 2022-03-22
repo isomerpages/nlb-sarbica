@@ -2,7 +2,7 @@ collections:
   programme:
     output: true
     order:
-      - Symposium Schedule (details to be advised).md
       - Symposium Theme.md
       - Pre Symposium Workshops (details to be advised).md
+      - Symposium Schedule (details to be advised).md
       - Keynote 1.md
