@@ -3,7 +3,6 @@ title: Call For Proposals
 permalink: /callforproposals
 description: ""
 ---
-
 2022 VIRTUAL SARBICA INTERNATIONAL SYMPOSUM
 
 16 and 17 November 2022 
@@ -52,15 +51,11 @@ We invite submission of proposals from interested parties on any of the above to
 Deadline for submission of proposals: 
 31 May 2022
 
-Notification of accepted proposals:                                                                       
-29 July 2022 
+Notification of accepted proposals:                                                                       29 July 2022 
 
-Deadline for confirmation to present at the Virtual Symposium:
+Deadline for confirmation to present at the Virtual Symposium:  16 August 2022
 
-16 August 2022
-
-Submission of presentation materials:                                                            
-6 October 2022
+Submission of presentation materials:                                              6 October 2022
 
 Virtual Symposium:                                                                       
 16 and 17 November 2022 	                                               
