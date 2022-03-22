@@ -1,5 +1,5 @@
 collections:
-  collection:
+  about-us:
     output: true
     order:
       - Conference Theme.md
