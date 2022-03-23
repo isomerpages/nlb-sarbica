@@ -51,7 +51,7 @@ Deadline for submission of proposals: 31 May 2022
 Notification of accepted proposals: 29 July  2022 
 Deadline for confirmation to present at the Virtual Symposium: 16 August 2022
 Submission of presentation materials: 6 October 2022
-Presentations at Symposium: 16 and 17 November 2022
+Presentation at Symposium: 16 and 17 November 2022
  
 
 		
@@ -76,4 +76,4 @@ Irene_LL_LIM@nlb.gov.sg
 
 5. The Organisers shall waive the registration fee of the Symposium for the confirmed Presenters.
 
-6. Please email your enquiries (if any) to: nlbsarbica2022@nlb.gov.sg
+6. Please email your enquiries (if any) to: NLB_Sarbica_2022@nlb.gov.sg
