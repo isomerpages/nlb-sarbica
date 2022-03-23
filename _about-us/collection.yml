@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Symposium Theme.md
       - About Southeast Asia Regional Branch of the International Council on
         Archives (SARBICA).md
       - About National Archives of Singapore .md
