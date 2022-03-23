@@ -3,8 +3,8 @@ title: Call For Proposals
 permalink: /callforproposals
 description: ""
 ---
-2022 VIRTUAL SARBICA INTERNATIONAL SYMPOSUM
-15 to 17 November 2022 
+## 2022 VIRTUAL SARBICA INTERNATIONAL SYMPOSUM
+## 15 to 17 November 2022 
 
 Hosted by the National Archives of Singapore 
 
@@ -76,4 +76,4 @@ Irene_LL_LIM@nlb.gov.sg
 
 5. The Organisers shall waive the registration fee of the Symposium for the confirmed Presenters.
 
-6. Please email your enquiries (if any) to: nlbsarbica2022@nlb.gov.sg 
+6. Please email your enquiries (if any) to: nlbsarbica2022@nlb.gov.sg
