@@ -7,7 +7,7 @@ permalink: /
 notification: More info will be released soon!
 sections:
   - hero:
-      background: /images/sarbica hero banner (1920 × 720 px).png
+      background: /images/1920 × 720 px 1.png
       button: Registration
       url: /registrationdetails
 ---
