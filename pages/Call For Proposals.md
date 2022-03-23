@@ -3,12 +3,14 @@ title: Call For Proposals
 permalink: /callforproposals
 description: ""
 ---
-## 2022 VIRTUAL SARBICA INTERNATIONAL SYMPOSUM
-## 15 to 17 November 2022 
-
-Hosted by the National Archives of Singapore 
-
+## 2022 VIRTUAL SARBICA INTERNATIONAL SYMPOSIUM
+## 
 *“Preservation & Sustainability: Two Sides Of The Same Coin?”  *
+
+15 to 17 November 2022 
+
+Hosted by the National Archives of Singapore (NAS), the 2022 Virtual SARBICA International Symposium will take place from 15 to 17 November 2022 including a pre-symposium Workshop on 15 November 2022. Expand your networks, and bond with fellow professionals at the events. For more information regarding the registration fees and other details,  please visit http://sarbicasymposium2022.nas.gov.sg/ 
+
 
 The environmental reality of the global climate crisis leading to unstable ecosystems, rising sea levels, extreme weather events, increasing natural disasters and displacement of people  inspired the theme ***“Preservation & Sustainability: Two Sides Of The Same Coin?”*** for the 2022 Virtual International Symposium of the Southeast Asia Regional Branch of the International Council on Archives (SARBICA). Preservation is a cornerstone of memory institutions like the archives, while Sustainability and sustainable development are the all-important challenges of our times. Partnering both issues in the theme is appropriate and timely. The theme also suggests that there may be differing opinions and perspectives on this link. The Symposium shall provide a venue to raise awareness, gain new perspectives, promote discussions and engage with questions on the intersection between the work of memory institutions, the environment and sustainability. 
 
@@ -78,4 +80,3 @@ Irene_LL_LIM@nlb.gov.sg
 
 6. Please email your enquiries (if any) to: NLB_Sarbica_2022@nlb.gov.sg
 
-Hosted by the National Archives of Singapore (NAS), the 2022 Virtual SARBICA International Symposium will take place from 15 to  17 November 2022 including a pre-symposium Workshop on 15 November 2022. Expand your networks, and bond with fellow professionals at the events. For more information regarding the registration fees and other details,  please visit http://sarbicasymposium2022.nas.gov.sg/
