@@ -77,3 +77,5 @@ Irene_LL_LIM@nlb.gov.sg
 5. The Organisers shall waive the registration fee of the Symposium for the confirmed Presenters.
 
 6. Please email your enquiries (if any) to: NLB_Sarbica_2022@nlb.gov.sg
+
+Hosted by the National Archives of Singapore (NAS), the 2022 Virtual SARBICA International Symposium will take place from 15 to  17 November 2022 including a pre-symposium Workshop on 15 November 2022. Expand your networks, and bond with fellow professionals at the events. For more information regarding the registration fees and other details,  please visit http://sarbicasymposium2022.nas.gov.sg/
