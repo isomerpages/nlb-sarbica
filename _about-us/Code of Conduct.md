@@ -37,6 +37,6 @@ Offending actions include, but are not limited to:
 
 **Reporting Procedures**
 
-If you are the victim or witness of any of the above, please contact the symposium organisers at nlbsarbica2022@nlb.gov.sg.
+If you are the victim or witness of any of the above, please contact the symposium organisers at NLB_Sarbica_2022@nlb.gov.sg.
 
 Thank you for making this symposium a positive experience for everyone!
