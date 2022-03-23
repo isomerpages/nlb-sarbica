@@ -35,7 +35,7 @@ Offending actions include, but are not limited to:
 
 • Real or implied threat of physical harm
 
-Reporting Procedures
+**Reporting Procedures**
 
 If you are the victim or witness of any of the above, please contact the symposium organisers at nlbsarbica2022@nlb.gov.sg.
 
