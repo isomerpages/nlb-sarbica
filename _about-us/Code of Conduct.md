@@ -19,7 +19,7 @@ All participants are expected to:
 
 • Be respectful of differing perspectives and experiences
 
-• Look out for each other, and to alert the conference organisers should any offending action be witnessed
+• Look out for each other, and to alert the symposium organisers should any offending action be witnessed
 
 **Unacceptable Behaviour**
 
