@@ -10,3 +10,5 @@ links:
     collection: programme
   - title: Registration
     url: /registrationdetails
+  - title: Contact Us
+    url: /contactus
