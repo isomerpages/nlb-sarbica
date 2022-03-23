@@ -21,7 +21,7 @@ All participants are expected to:
 
 • Look out for each other, and to alert the conference organisers should any offending action be witnessed
 
-***Unacceptable Behaviour**
+**Unacceptable Behaviour**
 
 Offending actions include, but are not limited to:
 
