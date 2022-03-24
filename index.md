@@ -6,5 +6,6 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: More info will be released soon!
 sections:
-  - hero: {}
+  - hero:
+      background: /images/sarbica hero banner (1920 × 720 px) 3.png
 ---
