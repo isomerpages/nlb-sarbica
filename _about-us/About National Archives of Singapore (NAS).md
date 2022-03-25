@@ -5,9 +5,9 @@ description: ""
 ---
 ## ![](/images/NAS%20JPEG%20COLOUR.jpg)About the National Archives of Singapore
 
-<p align="justify"> The  National Archives of Singapore (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved.
+<p align="justify"> The  National Archives of Singapore (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved. </p>
  
-<p align="justify">The immensely rich collection continues to grow as NAS fulfils its mission to actively acquire records that will serve as the corporate memory of the Government and the social memory of our people. This memory allows current and future generations of Singaporeans to understand our different cultures, explore our common heritage and appreciate who we are and how we became a nation. 
+<p align="justify">The immensely rich collection continues to grow as NAS fulfils its mission to actively acquire records that will serve as the corporate memory of the Government and the social memory of our people. This memory allows current and future generations of Singaporeans to understand our different cultures, explore our common heritage and appreciate who we are and how we became a nation. </p>
 
 **Our Mandate**
  
