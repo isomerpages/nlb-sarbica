@@ -1,0 +1,9 @@
+collections:
+  programme:
+    output: true
+    order:
+      - Pre Symposium Workshop (details to be advised).md
+      - Symposium Schedule (details to be advised).md
+      - Keynote 1.md
+      - Keynote 2 (details to be advised).md
+      - Papers (details to be advised).md

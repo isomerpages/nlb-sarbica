@@ -1,17 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: Message from SARBICA Chair
+    url: /messagefromsarbicachair
+  - title: About
+    collection: about-us
+  - title: Call For Proposals
+    url: /callforproposals
+  - title: Programme
+    collection: programme
+  - title: Registration
+    url: /registrationdetails
   - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resource
-    resource_room: true
+    url: /contactus
