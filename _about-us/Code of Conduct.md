@@ -5,9 +5,9 @@ description: ""
 ---
 ### 2022 Virtual SARBICA International Symposium Code of Conduct
 
-The 2022 Virtual SARBICA International Symposium is organised in the spirit of free inquiry and collective engagement. Disrespectful behaviour of any kind, at odds with these principles, will thus not be tolerated.
+<p align="justify">The 2022 Virtual SARBICA International Symposium is organised in the spirit of free inquiry and collective engagement. Disrespectful behaviour of any kind, at odds with these principles, will thus not be tolerated.
 
-The policy outlined below is a reminder to all participants, including attendees, presenters, and staff, of the professional ethics and norms that should be upheld during all stages of the event.
+<p align="justify">The policy outlined below is a reminder to all participants, including attendees, presenters, and staff, of the professional ethics and norms that should be upheld during all stages of the event.
 
 **Expected Behaviour**
 
