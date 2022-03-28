@@ -13,27 +13,27 @@ The policy outlined below is a reminder to all participants, including attendees
 
 All participants are expected to:
 
-• Always abide by this code of conduct in every setting, including official and unofficial social gatherings
+-Always abide by this code of conduct in every setting, including official and unofficial social gatherings
 
-• Be respectful of the personal boundaries of other participants
+-Be respectful of the personal boundaries of other participants
 
-• Be respectful of differing perspectives and experiences
+-Be respectful of differing perspectives and experiences
 
-• Look out for each other, and to alert the symposium organisers should any offending action be witnessed
+-Look out for each other, and to alert the symposium organisers should any offending action be witnessed
 
 **Unacceptable Behaviour**
 
 Offending actions include, but are not limited to:
 
-• Invasion of privacy, including the taking of screenshots and recordings of people, events, or conversations without express permission; and the posting of personal details of other participants without their consent
+-Invasion of privacy, including the taking of screenshots and recordings of people, events, or conversations without express permission; and the posting of personal details of other participants without their consent
 
-• Harassment, including persistent and unwelcome solicitation of intimacy; deliberate intimidation or cyberstalking; and the sustained use of professionally inappropriate comments
+-Harassment, including persistent and unwelcome solicitation of intimacy; deliberate intimidation or cyberstalking; and the sustained use of professionally inappropriate comments
 
-• Discriminatory behaviour, including insulting actions, comments, or jokes related to age, socioeconomic status, ability, gender, sexual orientation, ethnicity, nationality, religion, or politics
+-Discriminatory behaviour, including insulting actions, comments, or jokes related to age, socioeconomic status, ability, gender, sexual orientation, ethnicity, nationality, religion, or politics
 
-• Sustained disruption of programme
+-Sustained disruption of programme
 
-• Real or implied threat of physical harm
+-Real or implied threat of physical harm
 
 **Reporting Procedures**
 
