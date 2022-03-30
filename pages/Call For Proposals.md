@@ -4,8 +4,8 @@ permalink: /callforproposals
 description: ""
 ---
 ## 2022 VIRTUAL SARBICA INTERNATIONAL SYMPOSIUM
-## 
-*“Preservation & Sustainability: Two Sides Of The Same Coin?”  *
+
+**“Preservation & Sustainability: Two Sides Of The Same Coin?**
 
 15 to 17 November 2022 
 
