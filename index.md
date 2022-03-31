@@ -9,6 +9,3 @@ sections:
   - hero:
       background: /images/sarbica hero banner (1920 × 720 px) 3.png
 ---
-
-
-
