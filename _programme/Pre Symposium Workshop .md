@@ -23,7 +23,7 @@ The cultural heritage community has engaged with environmental sustainability in
 **Registration** **Fee** **and** **Details**: 
 To Be Advised 
 
-**About the Trainers**
+**About the Trainers**:
 
 ![](/images/Picture1_ws.jpg)
 
