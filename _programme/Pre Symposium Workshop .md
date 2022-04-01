@@ -17,7 +17,7 @@ The cultural heritage community has engaged with environmental sustainability in
 **Time**: 
 09:00 to 10:00 Singapore local time 
 
-Maximum Number of Participants:
+**Maximum Number of Participants**:
 40 pax, on a first-come-first-served basis 
 
 **Registration** **Fee** **and** **Details**: 
