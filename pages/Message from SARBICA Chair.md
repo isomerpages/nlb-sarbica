@@ -9,7 +9,7 @@ In 2018, the NAS celebrated its 50th anniversary and one of the highlights of ou
 
 The 2022 Virtual SARBICA International Symposium will be on the theme of ***“Preservation & Sustainability: Two Sides of The Same Coin?”.*** It will take place on 16 and 17 November 2022, with a pre-symposium online workshop planned for 15 November. We will focus on two important areas - preservation and sustainability, discuss perspectives on how they may co-exist and explore opportunities for action to benefit the work of memory institutions like the archives. This is a relatively new area to the archival community in Southeast Asia, and it is timely that we elevate the level of awareness amidst global climate changes, as sustainable preservation methods can raise environmental consciousness and support effective management of collections.  
 	
-The symposium provides a forum for us to network, share and learn from one another, and it is my pleasure to invite you to join the event as participants and speakers. On this note, may I seek your support and active contributions to the Call for Papers.  
+The symposium provides a forum for us to network, share and learn from one another, and it is my pleasure to invite you to join the event as participants and speakers. On this note, may I seek your support and active contributions to the Call for Proposals.  
 
 I look forward to welcoming you virtually this November and together, we make the 2022 Virtual SARBICA International Symposium a successful event.
 	
