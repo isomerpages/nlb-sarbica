@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Acknowledgements.md
       - Symposium Theme.md
       - About Southeast Asia Regional Branch of the International Council on
         Archives (SARBICA).md
       - About National Archives of Singapore (NAS).md
       - Code of Conduct.md
+      - Acknowledgements.md
