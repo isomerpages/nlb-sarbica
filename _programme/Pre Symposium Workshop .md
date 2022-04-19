@@ -23,12 +23,10 @@ The cultural heritage community has engaged with environmental sustainability in
 **Registration** **Fee** **and** **Details**: 
 To Be Advised 
 
-**About the Trainers**:
+**About the Trainer**:
 
 ![](/images/Picture1_ws.jpg)
 
 **Keith Pendergrass** is the digital archivist for Baker Library Special Collections at Harvard Business School, where he develops and oversees workflows for born-digital materials. His research with Walker Sampson, Tessa Walsh, and Laura Alagna explores ways to integrate environmental sustainability principles into digital archives and preservation standard practice. He holds an MSLIS from Simmons College and a BA in History from Amherst College.
 
-![](/images/Walker%20Sampson.jpg)
 
-**Walker Sampson** is an associate Professor and digital archivist at the University of Colorado Boulder Libraries. His research interests includes digital object and media preservation, especially video games and other creative objects, along with the conservation of the cultural and technical history of computing. He holds a Master of Science in Information Science from the School of Information at the University of Texas at Austin.
