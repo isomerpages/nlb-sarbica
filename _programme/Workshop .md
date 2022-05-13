@@ -29,4 +29,6 @@ To Be Advised
 
 **Keith Pendergrass** is the digital archivist for Baker Library Special Collections at Harvard Business School, where he develops and oversees workflows for born-digital materials. His research with Walker Sampson, Tessa Walsh, and Laura Alagna explores ways to integrate environmental sustainability principles into digital archives and preservation standard practice. He holds an MSLIS from Simmons College and a BA in History from Amherst College.
 
+![](/images/D1D92BE9-39C2-466A-886F-7E733E6DBA3B.jpeg)
+
 **Bethany Scott** is Digital Projects Coordinator at the University of Houston Libraries (UHL) and Product Owner of the Libraries’ open-source digital access and preservation ecosystem. As a representative of UHL Special Collections, she contributes knowledge on digital preservation, born-digital archives, and archival description to the Libraries’ digital initiatives. She received an MS in Information Studies from the University of Texas at Austin.
