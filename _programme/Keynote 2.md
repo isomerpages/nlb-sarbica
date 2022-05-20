@@ -1,8 +1,9 @@
 ---
-title: Keynote 2 (details to be advised)
+title: Keynote 2
 permalink: /programme/keynote2
 description: ""
 ---
+
 ![
 ](/images/Photo%20Valerie%20Johnson%20cropped.jpg)
 
