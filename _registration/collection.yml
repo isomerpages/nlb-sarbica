@@ -2,4 +2,4 @@ collections:
   registration:
     output: true
     order:
-      - Registration Details.md
+      - Schedule of Fees.md
