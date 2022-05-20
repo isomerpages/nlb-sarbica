@@ -9,6 +9,6 @@ links:
   - title: Programme
     collection: programme
   - title: Registration
-    url: /registrationdetails
+    collection: registration
   - title: Contact Us
     url: /contactus
