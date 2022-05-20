@@ -3,7 +3,8 @@ title: Keynote 2 (details to be advised)
 permalink: /programme/keynote2
 description: ""
 ---
-Details to be advised![](/images/Photo%20Valerie%20Johnson%20cropped.jpg)
+![
+](/images/Photo%20Valerie%20Johnson%20cropped.jpg)
 
 As Director of Research and Collections at The National Archives, Dr Valerie Johnson is responsible for leading and co-ordinating its  innovative research, heritage science and conservation programmes. She aims to further The National Archives’ engagement and collaboration with researchers across the cultural heritage, higher education, academic and archive sectors.
 
