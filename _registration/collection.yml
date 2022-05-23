@@ -1,0 +1,5 @@
+collections:
+  registration:
+    output: true
+    order:
+      - Schedule of Fees.md
