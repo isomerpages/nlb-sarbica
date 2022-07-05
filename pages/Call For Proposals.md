@@ -1,8 +1,9 @@
 ---
-title: Call For Proposals  One Week Left to Submit Proposals
+title: Call For Proposals
 permalink: /callforproposals
 description: ""
 ---
+
 
 ## 2022 VIRTUAL SARBICA INTERNATIONAL SYMPOSIUM
 
