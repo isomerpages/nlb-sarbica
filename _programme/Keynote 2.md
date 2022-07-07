@@ -5,7 +5,7 @@ description: ""
 ---
 # Where does the balance lie and are we there yet? 
 ## Archival values versus saving the environment
-# 
+
 
 With their collections, expertise, spaces and audiences, archives along with other heritage organisations are well placed to play a significant role in tackling climate change to achieve a sustainable future. Through implementing evidence-based changes in our thinking and practice, archives can and have been reducing their climate footprint and inspiring others to take action along the way. The National Archives of the United Kingdom has been doing this for over a decade. However, following the release of our Sustainability and Climate Action Statement and our joining of the Climate Heritage Network in 2020, we are stepping up our own work on environmental sustainability. In doing so, we support the UK Government's sustainability targets to secure global net zero targets and keep 1.5°C within reach, whilst continuing our role in protecting, preserving and providing access to our collections. 
 
