@@ -3,9 +3,7 @@ title: Keynote 1
 permalink: /programme/keynote1
 description: ""
 ---
-
-
-![keynote speaker_karen](/images/karenchan.jpg)
+![](/images/KarenChan_50.jpg)
 
 **Karen Chan** has been the Executive Director of the Asian Film Archive (AFA) since 2014. In the last 24 years, she has worked in various heritage institutions and government agencies including the National Archives of Singapore, the National Arts Council, and the Natural History Museum in New York City. 
  
