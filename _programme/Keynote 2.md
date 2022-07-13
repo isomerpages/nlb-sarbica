@@ -17,7 +17,7 @@ In addition to our own operations, we lead the archive sector in England and are
 
 As our event in 2021 showcased, excellent work is already being done in the sector. Nonetheless, serious challenges and contradictions remain in fundamental areas of our operations. These must be addressed in order for us to achieve a sustainable future. This keynote speech will discuss how finding our way through these challenges requires a collective international response from organisations and individuals, as well as a pooling of expertise and resources, and re-evaluating our ways of working and thinking as a sector. Fundamentally, sustainability has to become part of everyone’s role and responsibility to make the progress that we need to avert the worst that climate change can bring. With this in mind, The National Archives of the United Kingdom is working to strategically embed sustainable practices across all our operations, whilst also influencing the sector. In doing so we hope to provide both the means and inspiration for others so that together, we can create a sustainable future in which archives remain key assets to a thriving society.
 
-![](/images/Valerie%20Johnson_50.jpg)
+<img src="/images/Valerie%20Johnson_50.jpg" alt="valerie johnson" style="width:350px;"/>
 
 As Director of Research and Collections at The National Archives, Dr Valerie Johnson is responsible for leading and co-ordinating its  innovative research, heritage science and conservation programmes. She aims to further The National Archives’ engagement and collaboration with researchers across the cultural heritage, higher education, academic and archive sectors.
 

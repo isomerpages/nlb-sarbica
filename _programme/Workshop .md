@@ -25,14 +25,14 @@ To Be Advised
 
 **About the Trainers**:
 
-![](/images/Keith%20Pendergrass_50.jpg)
+<img src="/images/Keith%20Pendergrass_50.jpg" alt="keith pendergrass" style="width:350px;"/>
 
 **Keith Pendergrass** is the digital archivist for Baker Library Special Collections at Harvard Business School, where he develops and oversees workflows for born-digital materials. His research with Walker Sampson, Tessa Walsh, and Laura Alagna explores ways to integrate environmental sustainability principles into digital archives and preservation standard practice. He holds an MSLIS from Simmons College and a BA in History from Amherst College.
 
-![](/images/bscott_50.jpg)
+<img src="/images/bscott_50.jpg" alt="bethany scott" style="width:350px;"/>
 
 **Bethany Scott** is Digital Projects Coordinator at the University of Houston Libraries (UHL) and Product Owner of the Libraries’ open-source digital access and preservation ecosystem. As a representative of UHL Special Collections, she contributes knowledge on digital preservation, born-digital archives, and archival description to the Libraries’ digital initiatives. She received an MS in Information Studies from the University of Texas at Austin.
 
-![](/images/EAJheadshotBW_50.jpg)
+<img src="/images/EAJheadshotBW_50.jpg" alt="elizabeth ann johnson" style="width:350px;"/>
 
 **Elizabeth-Anne Johnson** is Electronic Records Archivist at the University of Calgary, where she develops workflows to acquire, process, preserve, and provide access to born-digital archival material. A graduate of the University of Manitoba Archival Studies programme, her research interests include digital preservation, conveying the materiality of digitized material, and the digital and environmental humanities.
