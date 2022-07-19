@@ -296,7 +296,7 @@ For more than 35 years, the Image Permanence Institute (IPI) has conducted labor
 
 **Kelly McCauley Krish** joined IPI in 2016 and provides information and guidance on preventive conservation, particularly best practices for sustainable environmental management through outreach and consulting projects at a range of cultural institutions. Her current research interests include pollution monitoring and mold prevention, and she is involved in the development of research projects to address these and other needs of the field. Kelly has a MSc in Art Conservation from the University of Delaware, and is a LEED Green Associate.
 
-# Sustainable Equals Holistic - formal education for reen archivists
+# Sustainable Equals Holistic - formal education for green archivists
 
 **Abstract:**
 
@@ -306,9 +306,6 @@ This talk teases out some features of holistic sustainability such as governance
 
 In the governance dimension, we need agreed social rules and parameters that will help us thrive and continue. In practical terms this entwines funding, our social mandate and education so the next generation learns why our mission is important and adapts it to their evolving situation. The preservation dimension addresses the practical measures we take to care for collections alert to resource depletion. There is a social dimension, some of which is captured through metadata, the way information circulates, who it is important to and their ability to influence and shape it.
 
-**Reference:**
-
-Finlay, C. (2021). Privacy update: current trends and developments. Australian Society of Archivists webinar. [https://www.archivists.org.au/events/event/privacy-update-current-trends-and-developments](https://www.archivists.org.au/events/event/privacy-update-current-trends-and-developments)
 
 **Name and Institution of Proponent:**
 
