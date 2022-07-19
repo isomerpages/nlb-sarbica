@@ -622,7 +622,7 @@ Mia Lee, Singapore University of Social Sciences
 
 **Mia Lee** is a historian of Modern Europe, who works as a senior lecturer at the Singapore University of Social Sciences and as an advocate for history from below. She has published a book on West German art and politics and articles on history and memory, postwar European art, Nazis in the Middle East, and political pornography. She is currently launching the website HistoryLabSG.com, which will feature podcasts on Singapore and Southeast Asia.
 
-**Title: Sustainability: Adaptation and Mitigation in Archival Institutions**
+# Sustainability: Adaptation and Mitigation in Archival Institutions
 
 **Abstract:**
 
@@ -640,7 +640,7 @@ Located in Vancouver, Canada on Musqueam traditional territory, **Lois M. Evans*
 
   
 
-**Title: A Green Inquiry on the Records Disposition Program for Public Records in the Philippines**
+# A Green Inquiry on the Records Disposition Program for Public Records in the Philippines
 
 **Abstract:**
 
@@ -660,7 +660,7 @@ ANDREA DENISE GAPAN, University of the Philippines School of Economics Library
 
 **ANDREA DENISE GAPAN** is a college librarian at the UP School of Economics Library. Her research work and interests revolve around archives and records management, and their relationship with people, culture, and history. She graduated with a Bachelor of Library and Information Science degree from the UP School of Library and Information Studies, where she is currently trying to finish her masters. She worked as a graduate school librarian at CEU Manila, and eventually, as Librarian I at the University Archives, UP Diliman.
 
-**Title: Preserving Family Records using Technology for Constructing Collective Memory**
+# Preserving Family Records using Technology for Constructing Collective Memory
 
 **Abstract:**
 
@@ -688,7 +688,7 @@ Titi Susanti, Universitas Gadjah Mada
 
   
 
-**Title: Greening of Singapore**
+# Greening of Singapore
 
 **Abstract:**
 
@@ -704,7 +704,7 @@ Lim Tin Seng, National Library of Singapore
 
   
 
-**Title: Mapping Sea-Level Change in Time and Space**
+# Mapping Sea-Level Change in Time and Space
 
 **Abstract:**
 
@@ -732,7 +732,7 @@ Professor Horton’s research concerns sea-level change, with the aim of underst
 
   
 
-**Title: Archives and Climate Change: findings from the submissions of the special issue of Comma**
+# Archives and Climate Change: findings from the submissions of the special issue of Comma
 
 **Abstract:**
 
@@ -762,11 +762,11 @@ drs. Frans Smit, Dutch Information and Heritage Inspectorate
 
 **Dr. Jörg Ludwig** is historian and archivist at the Saxon State Archives in Germany. He is responsiblie for archival descriptions and access to archives. He has been a member of the Ediotiral Board of Comma since 2001.
 
-**drs. Frans Smit** has been working in the field of Archives, ICT and Information Archives since 1989, primarily in various functions in the local and national Dutch Government Administration. Currently he works as Senior Inspector at the Dutch Information and Heritage Inspectorate. He is also a part-time teacher of Archivistics at the Reinwardt University of Applied Science in Amsterdam. He has been Co Editor-in-Chief of Comma since 2021
+**Drs. Frans Smit** has been working in the field of Archives, ICT and Information Archives since 1989, primarily in various functions in the local and national Dutch Government Administration. Currently he works as Senior Inspector at the Dutch Information and Heritage Inspectorate. He is also a part-time teacher of Archivistics at the Reinwardt University of Applied Science in Amsterdam. He has been Co Editor-in-Chief of Comma since 2021
 
   
 
-**Title: INTENDENCIA BUILDING: HERITAGE BUILDING AS SUSTAINABLE HERITAGE**
+# INTENDENCIA BUILDING: HERITAGE BUILDING AS SUSTAINABLE HERITAGE
 
 **Abstract:**
 
@@ -776,9 +776,9 @@ In this paper, the concept of sustainable heritage is presented.  This is illus
 
 The main ideas presented in this paper include:
 
-1.         The concept of records continuum as sustainable. The continuity of records management to archiving is symbolic of the sustainability aspect of heritage.  It can be seen that a cycle is observed in handling records.  The said cycle represents sustainability.  Business operations run smoothly when the cycle is followed, but may cause adverse effects when breached.
+1. The concept of records continuum as sustainable. The continuity of records management to archiving is symbolic of the sustainability aspect of heritage.  It can be seen that a cycle is observed in handling records.  The said cycle represents sustainability.  Business operations run smoothly when the cycle is followed, but may cause adverse effects when breached.
 
-2.         The restoration and conservation of the Intendencia Building is symbolic of sustainable heritage.  The adaptive reuse of the building presents a sense of humility, i.e. evidence-based design, nothing extravagant was incorporated.  The building also has specific features which are deemed sustainable i.e. materials recovery facility, rainwater harvesting facility, open courtyard design.
+2. The restoration and conservation of the Intendencia Building is symbolic of sustainable heritage.  The adaptive reuse of the building presents a sense of humility, i.e. evidence-based design, nothing extravagant was incorporated.  The building also has specific features which are deemed sustainable i.e. materials recovery facility, rainwater harvesting facility, open courtyard design.
 
 **Name and Institution of Proponent:**
 
@@ -794,7 +794,7 @@ TBA
 
   
 
-**Title:** **Powering Green and Sustainable Development in Libraries**
+# Powering Green and Sustainable Development in Libraries
 
 **Abstract:**
 
@@ -810,22 +810,3 @@ Priscilla Pun, University of Macau Library / IFLA Environment, Sustainability an
 
   
 
-* * *
-
-[\[1\]](#_ftnref1) [ourworldindata.org/energy-mix](https://ourworldindata.org/energy-mix); [eia.gov/energyexplained/us-energy-facts](https://www.eia.gov/energyexplained/us-energy-facts/)    
-
-[\[2\]](#_ftnref2) [dictionary.archivists.org/entry/medium.html](https://dictionary.archivists.org/entry/medium.html); [simagestao.com.br/wp-content/uploads/2016/01/Dicionario-de-terminologia-arquivistica.pdf](https://simagestao.com.br/wp-content/uploads/2016/01/Dicionario-de-terminologia-arquivistica.pdf)    
-
-[\[3\]](#_ftnref3) [cambridge.org/elt/blog/2020/11/16/singular-they-teaching-a-changing-language](https://www.cambridge.org/elt/blog/2020/11/16/singular-they-teaching-a-changing-language/)    
-
-[\[4\]](#_ftnref4) [dictionary.archivists.org/entry/retention-period.html](https://dictionary.archivists.org/entry/retention-period.html)  
-
-[\[5\]](#_ftnref5) [epa.gov/greeningepa/green-practices-epa](https://www.epa.gov/greeningepa/green-practices-epa)  
-
-[\[6\]](#_ftnref6) UNESCO. World Heritage Centre. Section on Climate change and World Heritage. (2021). [https://whc.unesco.org/en/climatechange/#:~:text=In%20its%20Decision%2039%20COM,United%20Nations%20Framework%20Convention%20on](https://whc.unesco.org/en/climatechange/#:~:text=In%20its%20Decision%2039%20COM,United%20Nations%20Framework%20Convention%20on)
-
-[\[7\]](#_ftnref7) ALIA disaster management for libraries (2019)
-
-Part one: **Guide** [https://read.alia.org.au/alia-disaster-management-libraries-part-one-guide](https://read.alia.org.au/alia-disaster-management-libraries-part-one-guide).
-
-Part two: **Disaster plan template** [https://read.alia.org.au/alia-disaster-management-libraries-part-two-disaster-plan-template](https://read.alia.org.au/alia-disaster-management-libraries-part-two-disaster-plan-template)
