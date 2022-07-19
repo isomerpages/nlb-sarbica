@@ -6,13 +6,16 @@ description: ""
 # **Who makes GLAM sustainable?: A introduction to the British Library Sustainability Group and professional agency for GLAM workers in the climate crisis**
 
 **Abstract**: 
+
 The consensus is in – human influence has ‘unequivocally’ driven today's interlaced climate and biodiversity emergencies.  With the deadline for meaningful action shrinking, the heritage sector can and should play a significant role in the quest for solutions. In fact, it is a renewable resource for positive climate action as custodians of collections with the reach to inspire millions around the world. Not only do heritage institutions connect people to their histories via exhibitions, but they also have the power to lead in sustainable change via their mission of education and engagement. But how does a heritage institution build up to this vocation? Who leads the change within the institution? Is it top-down, bottom-up or both? This presentation will introduce the staff-led, action-based British Library Sustainability Group, some of its actions and how it developed from the idea of a single staff member to an organisation-wide group helping embed sustainability into the fabric of the Library.
 
  **Name and Institution of Proponent:**        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+ 
  Morgane Lirette, British Library
  
 
 **Bio:**
+
  **Morgane Lirette** is a book and paper conservator working in her speciality at the British Library. She is founder and co-chair of the Library’s Sustainability Group.
  
 #  Land, Air, and Water: an Environmental History Perspective on Archival Research
@@ -20,11 +23,13 @@ The consensus is in – human influence has ‘unequivocally’ driven today's i
 
 
 **Abstract:**
+
 This panel brings together three historians of the environment, each with an interest in Singaporean and Southeast Asian history. Through a close lens into some of their latest work, they explore the sources available for doing environmental history in Singapore, along with some of their methodological and resource-based challenges.
 
 **A Nineteenth-Century Environmental Crisis and the Archives in Singapore**
 
 **Name and Institution of Proponent:**
+
 Timothy P. Barnard (NUS, Department of History)
 
 As colonialism became ensconced in Singapore after 1819, the landscape and society transformed to fit the needs of an expanding imperial power. One of the primary outcomes of these developments was the expansion of cash crop cultivation until it encompassed the entire island within a few decades. This resulted in massive deforestation and a variety of problems, many of them related to the water supply. To counter these developments, colonial officials would solve a problem they had created through tree-planting programs to reforest the interior as well as the development of a much-needed water reservoir. This presentation will discuss how deforestation and a subsequent environmental crisis played a role in the creation of a modern, imperial city and how records of these developments are present and – at times – hidden in the archives as historians work to understand the dynamics of a British trade port in Southeast Asia in the nineteenth century.
@@ -32,6 +37,7 @@ As colonialism became ensconced in Singapore after 1819, the landscape and socie
 **El Niño and the human-environment nexus: drought and vulnerability in Singapore 1877-1911**
 
 **Name and Institution of Proponent:**
+
 Fiona Williamson (SMU, College of Integrative Studies)
 
 In 1877, 1902, and in 1911, Singapore and much of the world were hit by record droughts. The events were not as serious here as in other parts of the world yet, they revealed stark social vulnerabilities and a lack of preparedness for water shortages. Records from Singapore can help tell the story of the droughts from social and governance perspectives, showing how water supply was inadequate for the growing population, despite investment in engineering and infrastructure. However, the sources also help us to understand the droughts from a climatological perspective. Each of the years 1877, 1902 and 1911 have been identified by scientists as strong El Niño events globally, most likely part of protracted episodes which tend to have stronger impacts than ‘classical’ El Niño event. This paper seeks to explore how the historic record can help make sense of the meteorological record, to gain a holistic understanding of risk, resilience, vulnerability and extreme weather.
@@ -39,6 +45,7 @@ In 1877, 1902, and in 1911, Singapore and much of the world were hit by record d
 **The hungry city: A history of Singapore’s fish supply from ikan siakap to Asian seabass** 
 
 **Name and Institution of Proponent:**
+
 Anthony D. Medrano (Yale-NUS College, Environmental Studies Program)
 
 From trade flows to cultural exchanges, historians have long explored how the seas, straits, and rivers of Singapore connected—if not also partly made—the world we know. Often drawing on primary sources and published records, this important scholarship has narrated Singapore’s watery past as urban and circulatory, revealing the industrial and itinerant ways in which an island port became a global city. In contrast, this paper finds and charts a different kind of water story anchored in the archives. It centers a history of ecological and economic life through Singapore’s evolving fish supply. More than any other animal protein, fish fed the island’s demographic transition from kampung to town, and from crown colony to city-state. In thinking with fish across physical collections and digital repositories, this paper recovers an environmental tale that speaks as much to _changes in the land_ as it does to changes in the water. In doing so, it shows how the entanglement of species, mangroves, estuaries, reefs, migrants, and monsoons was central to provisioning the hungry city in the past and continues to be relevant to feeding Singapore in the present.
@@ -47,6 +54,7 @@ From trade flows to cultural exchanges, historians have long explored how the se
 # **Can Digital Go Green? The Myth of Sustainable Digital Preservation**
 
 **Abstract**:
+
 This presentation will be based on an article I’m writing for Computers in Libraries. The topic is the importance of addressing environmental sustainability as related to climate crisis in how we create, collect, manage and preserve digital archives.
 
 Our current digital preservation strategies rely heavily on servers and cloud storage. Given the extraordinary amount of electricity required to operate server farms (not to mention the water for cooling), is this environmentally responsible? Strategies such as LOCKSS--Lots Of Copies Keep Stuff Safe—worked fine in the dawning age of the Internet and digitization but 30 years on, we are drowning in data. 
@@ -58,9 +66,11 @@ Not only is this in response to climate crisis, but to the unsustainability of s
 Finally, what can we learn from Indigenous and non-Western perspectives when it comes to alternative ways of managing archives—eschewing over-reliance on technology--along with a reconsideration of our values and the societal roles Archives play in 21st century.
 
 **Name and Institution of Proponent:** 
+
 Jan Zastrow, Independent Consultant
 
 **Bio:** 
+
 Jan Zastrow is a Hawai’i-trained, Washington-based Certified Archivist, librarian, and information professional with experience in business, academic, government, and nonprofit sectors. She established her own information management practice, Hyperclick Online Services, in 1998 and continues to consult today.
 Jan earned her MLIS and Political Science master's degrees at the University of Hawai’i at Manoa, and joined the University of Hawai’i Library faculty to head the Congressional Papers Collection and establish the Archives & Manuscripts Department. She subsequently relocated to Washington to serve as archivist, records manager, researcher, and historical consultant for five United States senators.
 
@@ -70,27 +80,34 @@ Jan serves as a mentor and journal peer reviewer, contributes features to librar
 # Archival preservation: risks and benefits to the future of the planet
 
 **Abstract**:
+
 The overlap between the preservation of the environment and the preservation of archives is more than linguistic. In both cases preservation aims to minimise the rate of change and halt, or at least slow, deterioration. Nevertheless, it remains the fact that the preservation needs of archives, and other cultural heritage, are not carbon neutral and lead to increases in greenhouse gas emissions. This in turn means that in preserving cultural heritage there is a cost to the preservation of the environment. In the long term this is a counter-productive cycle that needs to be modelled, assessed and managed in ways that are sustainable and may even provide carbon drawdown opportunities for the preservation of archives to contribute to the preservation of the planet. This paper explores this dichotomy, the risks in not understanding the carbon cost of archival preservation, and the possibilities that exist for sustainable preservation practices that will provide for effective carbon drawdown.
 
     
-**Name and Institution of Proponent:** Robyn Sloggett AM
+**Name and Institution of Proponent:** 
+
+Robyn Sloggett AM
 
 The Grimwade Centre for Cultural Materials Conservation, The University of Melbourne
 
 **Bio:**
+
 Robyn Sloggett AM is Cripps Foundation Chair and Director of the Grimwade Centre, the University of Melbourne. Her research interests include cultural material and climate change; the investigation of artists’ materials and techniques; attribution and authentication; collection development and history; community engagement in conservation; and the preservation of cultural materials in Australian Indigenous communities. Her awards for contributions to the profession and the preservation of Australia’s cultural heritage include the Bathurst Macquarie Heritage Medal (2016); International Council of Museums Australia Award for International Relations (2013); AICCM Award for Outstanding Research in the Field of Material Conservation (2012); and AICCM Conservator of the Year (2004)) and member of the Order of Australia (2015). She is passionate about research and education programs that support the next generation of conservators and build recognition of the importance of cultural heritage for the future.
 
 #         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> Exploring the use of a value-based approach to implement a more sustainable strategy for storing and displaying the National Collection at the Heritage Conservation Centre (HCC) in Singapore
 
 **Abstract**: 
+
 The Heritage Conservation Centre (HCC) is an institution of the National Heritage Board (NHB), Singapore: it is the repository and conservation facility for the management and preservation of the National Collection. The paper presents how HCC is exploring the use of a value-based method to implement a more sustainable storing and display strategy of the National Collection, especially considering the challenging regional climatic conditions. The model used in which five ‘pillars’ -social, societal, operational, environmental, and economic- are considered to assess the sustainability of a decision related to collection care will first be presented (Saunders 2022).
 
 Defining an item's Collection lifespan according to its `Collection Value’ is the cornerstone of the value-based proposed method. The system implemented within NHB since 2011 to classify the National Collection will be presented along with the derived care decision framework. How this existing frame could be used to generate categories of 'Value at Risk' specific to each agent of deterioration will be discussed. To illustrate the approach, it will be described how material evidence obtained by assessing the specific dose-response functions of an item can be used to define a set of lighting conditions on one end and of environmental conditions on the other according to item's 'Value at Risk' to light and to incorrect environmental conditions, respectively. It will be finally presented how these results can be used to ensure a careful yet more sustainable storing and display of the National Collection and the method adjusted to any institution caring for a collection.
 
 **Name and Institution of Proponent:** 
+
 Christel Pesme (Chief Conservator/ Deputy Director Conservation Services) & Miki Komatsu (Senior Textile Conservator - Heritage Conservation Centre, Singapore)
 
 **Bios:**
+
 **Christel Pesme** is Chief Conservator/ Deputy Director (Conservation Service) at the Heritage Conservation Centre (HCC), part of the National Heritage Board of Singapore. Christel graduated from the Master program in conservation of works on paper at the University of Paris 1-Panteon-Sorbonne in Paris. She worked at the GCI’s Preventive Conservation Science Group from 2008 to 2012 in the team of Jim Druzik. She has since lectured extensively on the use of Microfadometry to formulate more sustainable display recommendations by integrating an evaluation of the item's cultural values in the risk assessment framework. Prior to her current position, she has held the position of Senior Conservator at M+ Museum in Hong Kong. For the last couple of years, she has focused her efforts on developing practical ways to implement more sustainable practices of collection use and care, especially in hot and humid climates.
 
 **Miki Komatsu** joined HCC in 2008 and has headed the Textile Conservation Section since 2010. She graduated with a MA in Textile Conservation from the Textile Conservation Centre at the University of Southampton, UK. She also obtained a MA in Apparel Science Study from the Kyoritsu Women’s University, Japan. She was the textile conservator-in-charge for several special exhibitions and revamps including Pattern of Trade: Indian textiles for export, 1400-1900 held at the Asian Civilizations Museum (ACM), the inaugural of Indian Heritage Centre, and the ACM permanent gallery revamp. Her research interests are fibres and dyes, using technical analysis to identify dyes used in historical textiles, and microfadometry.
@@ -99,6 +116,7 @@ Christel Pesme (Chief Conservator/ Deputy Director Conservation Services) & Miki
 
   
 **Abstract:**
+
 Every day, every nation’s government, commerce, legal, social and cultural activities create vast amounts of digitally encoded information. Much is of transitory interest, but a very large amount must be preserved for re-use. Societies could not function without being able to reuse such information; much simply needs to be printed or displayed, but increasing amounts must be used in complex software, for example for financial planning purposes or computer aided design.
 
 This paper will describe how the vast amounts of digitally encoded information can be preserved in a way which does not just ensure the bits are unchanged but also in a way which ensures that it can continue to be used in the way required.
@@ -137,6 +155,7 @@ The National Archives of Maldives (NAM), since its inception eleven years ago, h
 #         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> Ring Of Fire as an Evaluation of Determining the Location of Archive Center Buildings in Indonesia (Analysis of the Location of the Archive Center in Indonesia which is Prone to Disasters)
 
 **Abstract:**
+
 Indonesia as a ring of fire region places its position very vulnerable to disasters. 2021 BNPB (_National Disaster Management Agency_) recorded 3,092 events dominated by hydrometeorological disasters. The most frequent disasters are floods with 1,298 events, 804 extreme weather events, 632 landslides, 265 forest and land fires, 45 tidal waves and abrasion, 32 earthquakes, 15 droughts and volcanic eruptions. This data shows that the Indonesian region has the potential for disasters to occur at any time. Archive storage in the majority of archive centers are in vulnerable areas. Indonesia's position in the _ring of fire area_ causes earthquakes to occur frequently. The purpose of this research is to find solutions to prevent archive destruction and the actions that need to be taken if a disaster occurs. The research method is a qualitative research location in Jakarta, Bogor, Banten. The data collection techniques in this study were interviews and other supporting documents according to the research objectives. The results showed that the occurrence of earthquake disasters that caused landslides, floods, fires, permanent land damage caused disasters as well as archives, namely damaged archives that could not even be saved because of the location or position of the building where archives were stored which were prone to disasters. Efforts that can be made are to create a system that is able to detect when a disaster will come, procedures for handling archives during a disaster, and when a disaster occurs and after a disaster.
 
 _Keywords: climate change, ring of fire, disaster archive_
@@ -150,6 +169,7 @@ Diploma Archiv Program Law, Sosial and Politic Science Faculty
 Universitas Terbuka (Open University) Jakarta, Indonesia
 
 **Bio:**
+
 TBA
 
 #   Digital Preservation's Impact on the Environment
@@ -158,15 +178,18 @@ TBA
 Digital content is created and collected by everyone: libraries, archives, museums, government agencies, corporations, media companies, artists, and individuals. Keeping digital content viable requires not only energy use, but also refreshing the digital storage media and technologies. This presentation will explore the energy consumption and e-waste generated in current digital preservation infrastructures and actions, and review the environmental impact embodied in the full lifecycle of these infrastructures. It will include recommendations for actions and policies to mitigate digital preservation’s impact on the environment.
 
 **Name and Institution of Proponent:** 
+
 Linda Tadic, CEO
 
 Digital Bedrock
 
 **Bio:**
+
 **Linda Tadic** is Founder/CEO of Digital Bedrock, a managed digital preservation service that helps libraries, archives, museums, producers, studios, artists, and individuals preserve their digital content. She is also a Lecturer in UCLA’s Department of Information Studies, teaching a course on Digital Asset Management. She was previously an adjunct professor in NYU’s Moving Image Archiving and Preservation program. Her over 35 years’ experience includes positions at HBO, Artstor, the Media Archives and Peabody Awards Collection at the University of Georgia, and Pacific Film Archive. Linda consults and lectures on digital asset management, audiovisual and digital preservation, metadata, and the impact of digital preservation on the environment. She is a founding member and former President of the Association of Moving Image Archivists (AMIA), and is currently on the National Digital Stewardship Alliance (NDSA) Coordinating Committee. Linda is the recipient of the 2021 SMPTE James A. Lindner Archival Technology Medal.
 
 #   Sustainability Principles applied on Archivistic Practice
 **Abstract:**
+
 Brazil is a global standard regarding the use of renewable energy sources. The country has one of the cleanest energy mixes[\[1\]](#_ftn1) in the world. The Federal Senate, as one of the pillars of the Brazilian Legislative Branch, is a body traditionally committed to the best practices and administrative management, among which the adoption of sustainability principles stands out.
 
 In 2016, the Senate drafted a Charter of Commitments in which it commits to perform its activities within the sustainability principles, document preservation, and information transparency.
@@ -180,11 +203,13 @@ The process of document elimination and disposal is another action that associat
 These and other actions make the Federal Senate a standard in the so-called "green practices[\[5\]](#_ftn5)", by means of the continuous association of good public management with the sustainability principles.
 
 **Name and Institution of Proponent:**
+
 Roberto Ricardo Carlos Grosse Junior
 
 Senate of Brazil
 
 **Bio:**
+
 TBA
 
   
@@ -192,34 +217,42 @@ TBA
 # What is the True Carbon Footprint of a Virtual Archives: Re-thinking Environmental Impact and Sustainability in the Context of Emerging Technologies
 
 **Abstract:**
+
 The volume and variety of multimedia content to be preserved has increased exponentially since the mid-2010s. Digital archivists are now faced with electronic records that defy categorization, content creators range from enthusiastic amateurs to highly trained experts, and vast amounts of cloud storage is now ubiquitous. When assessing the carbon footprint of generating and storing digital content, it is essential to consider the environmental impact of factors such as electricity, networking and computing technologies, and socio-economic privilege. Emerging technologies such as artificial intelligence/machine learning, blockchain, metaverse, and extended realities have changed existing industries and generated new disciplines. These new technologies also affect how content is visualized and put an increased emphasis on the experience of interacting with that content.
 
 The author uses several case studies from contemporary new media art, performing arts, and virtual cultural heritage to highlight the complexity of defining “sustainability” when creating and maintaining virtual archives. These case studies are drawn from areas such as eco-art, generative art, and virtual reality to demonstrate how emerging technologies are or can be used to build repositories of experiences rather than simple static objects. The main rationale for selecting from the arts and humanities is that they offer unusually complex scenarios that eventually have implications for other fields. Insights from the research of digital preservationists such as David Bearman and Colin Post will be used as the lens through which to assess the feasibility of maintaining these new types of repositories over time.
 
 **Name and Institution of Proponent:**
+
 Eugenia Kim, Independent researcher
 
 **Bio:**
+
 **Eugenia S. Kim** is a Korean-American transdisciplinary creator and researcher who uses movement and multimedia technology to create narratives and visualize various types of lived experiences. Her doctoral research proposed the use of dance and somatic movement practices, motion capture and virtual reality (VR) for creating illness narratives about bipolar disorder. From 2001-2017, she mainly created and performed in live dance works for the stage before switching her focus to motion capture, VR, and the metaverse. She was also a digital archivist/humanist/librarian from 2011-2016 with a focus on digital dance preservation. Her current research focuses on using mocap data and metaverse platforms to create embodied archives about living with chronic pain. Eugenia is an editor for the Journal of Dance and Somatic Practices, a board member of the Somatic Practices and Chronic Pain Network, and an artist with the Augmented Materiality Lab (School of Creative Media, City University of Hong Kong). She holds a PhD in Creative Media from the City University of Hong Kong, MS in Information Science from University at Albany, and BS in Electronic Media, Arts and Communications from Rensselaer Polytechnic Institute.
 
 #  **The Paradox of Digital Sustainability**
 
 **Abstract:**
+
 It is clear that rapid and radical transformation towards a low-carbon society is needed to prevent the increase of further environmental disasters. But what happens to the increasing footprint that is left when considering the future of the digital present? Since the advent of digital technology, heritage is created, stored and preserved by heritage and archival institutions. Consisting of different technical layers, digital heritage’s functioning relies heavily on the migration, emulation or virtualization of technical equipment and infrastructures. A tension emerges between the need to keep digital material safe for the future and the continuing need to update technical tools, methods and skills to enable these projects to function. While recognizing the value of recent sustainability efforts to minimise the carbon footprint in museum and archival institutions, for an archival ecological paradigm shift to occur, also socio-cultural adaptation is needed. I will discuss the paradox of ‘digital sustainability’ in relation to the preservation of digital art, and address another potential area where digital preservation can become more sustainable: the concept and practice of ‘networks of care’. This notion proposes to extend care by letting digital heritage evolve, in which the ‘original’ may be decaying over time (Desilvey 2017). Such an approach requires a collaborative model of shared governance in which digital preservation will depend less on continuous technical innovation in favour of the engagement and preservation of social relations and low-tech solutions, thereby reducing vulnerability, creating greater socio-cultural awareness and moving towards a resilient and sustainable management of digital heritage.
 
 **Name and Institution of Proponent:**
+
 Annet Dekker
 
 University of Amsterdam
 
 **Bio:**
+
 **Annet Dekker** ([http://aaaan.net](http://aaaan.net)) is Assistant Professor Archival and Information Studies at the University of Amsterdam, and Visiting Professor and co-director of the Centre for the Study of the Networked Image at London South Bank University. She has a long career in working as a researcher and curator for international organizations, festivals and galleries where she organizes exhibitions, workshops, artists-in-residencies, and conferences. She publishes regularly in numerous collections and journals and is the editor of several volumes, most recently, _Documentation as Art: Expanded Digital Practices_ (Routledge, 2022, co-edited with Gabriella Giannachi), _Curating Digital Art._ _From Presenting and Collecting Digital Art to Networked Co-Curating_ (Valiz 2021), _Lost and Living (in) Archives_ (Valiz 2017). Her monograph, _Collecting and Conserving Net Art. Moving Beyond Conventional Methods_ (Routledge 2018), is a seminal work in the field of digital art conservation.
 
   
 
 # Opportunities for improving sustainable practices and preservation at the Alexander Turnbull Library, New Zealand
 
+
 **Abstract:**
+
 The Alexander Turnbull Library’s collection stores are maintained at stringent temperature and humidity levels as an obligation to preserve the collections in perpetuity. As a consequence of upholding these conditions, the mechanical systems for climate control in the stores consume around 80% of the total energy used in the National Library building.
 
 Better understanding of the environmental impact on collection materials and decay has led to more nuanced approaches to environmental management, involving collaboration and planning based on the principles of risk management. Moreover, it was recognised that there are opportunities to optimise the operations of the mechanical systems to lower energy consumption and costs.
@@ -229,6 +262,7 @@ In response to a shift towards more sustainable environmental management, ATL es
 This paper will focus on the activities of ATL’s EMT on implementing changes to managing its collection environments. These changes include mechanical systems shutdowns, adjusting seasonal set points for temperature and relative humidity, reducing the introduced fresh air and adjusting fan speeds in collection stores.
 
 **Name and Institution of Proponents:**
+
 Vesna Živković, Laura Van Echten, Alexander Turnbull Library National Library of New Zealand Te Puna Mātauranga o Aotearoa
 
 **Bios:**
@@ -244,6 +278,7 @@ Before joining ATL Vesna worked at the National Museum, Belgrade, as curator for
 # Pushing “Optimal” Forward: A Framework for Exploring Synergies for Promoting Preservation and Sustainability Simultaneously at Each Level of Control
 
 **Abstract:**
+
 Risk assessment in cultural heritage has long used a framework based on the levels of control (ex. CCI-ICCROM “A Guide to Risk Management of Cultural Heritage”). Working from the object outwards, the enclosure or support, storage furniture, room, building, site, and region all represent opportunities to use policies, maintenance, passive and active means to reduce the risks of deterioration and loss to collections by avoiding, blocking, and reducing harmful agents to the extent possible, and detecting and responding where needed.
 
 This talk demonstrates that the same framework can be useful for identifying opportunities that address and further both preservation and sustainability in the most effective way at any institution. Examples will be presented that draw from laboratory experiments, field tests at institutions, and published case studies to showcase: the effectiveness of enclosures in mitigating environmental extremes, particularly high relative humidity; the ability to implement energy-saving mechanical operation with no change or improvement to preservation; and heat and moisture load reduction on a building envelope.
@@ -259,13 +294,15 @@ Preventive Conservation Specialist
 Image Permanence Institute
 
 **Bio:**
+
 For more than 35 years, the Image Permanence Institute (IPI) has conducted laboratory research to increase understanding of how to optimize preservation environments: that is, to achieve the best possible preservation of collections with the least possible consumption of energy. This research then informs IPI’s work at museums, libraries, and archives across the United States through +60 consulting projects and long-term educational programming.
 
 **Kelly McCauley Krish** joined IPI in 2016 and provides information and guidance on preventive conservation, particularly best practices for sustainable environmental management through outreach and consulting projects at a range of cultural institutions. Her current research interests include pollution monitoring and mold prevention, and she is involved in the development of research projects to address these and other needs of the field. Kelly has a MSc in Art Conservation from the University of Delaware, and is a LEED Green Associate.
 
-# Sustainable equals holistic - formal education for green archivists
+# Sustainable Equals Holistic - formal education for reen archivists
 
 **Abstract:**
+
 The environment is changing rapidly, not just the physical, carbon-affected environment but also our techno-cultural situation. This is exemplified by tensions over who is best placed to steward authentic and reliable information. If records and archives people are to remain relevant in this space, our skills and education prepare and define us. Skills and education come together in our worldview in which I position us, after Australian archivist Cassie Finlay, as the ‘in context, through time’ people (Finlay, 2021). Seeing ourselves this way, continuing through time becomes crucial and aligns with a holistic understanding of sustainability. It’s not enough to understand sustainable as practices associated with reducing carbon dependence and changing other resource-depleting behaviours. Sustainable is a bigger and more holistic mission. 
 
 This talk teases out some features of holistic sustainability such as governance, preservation and social impact. It demonstrates these ideas through teaching initiatives at Charles Sturt University in the records and archives courses.  
@@ -277,9 +314,11 @@ In the governance dimension, we need agreed social rules and parameters that wil
 Finlay, C. (2021). Privacy update: current trends and developments. Australian Society of Archivists webinar. [https://www.archivists.org.au/events/event/privacy-update-current-trends-and-developments](https://www.archivists.org.au/events/event/privacy-update-current-trends-and-developments)
 
 **Name and Institution of Proponent:**
+
 Dr Louise Curham, School of Information and Communication Studies, Charles Sturt University
 
 **Bio:**
+
 **Dr Louise Curham** is a lecturer in the School of Information Studies at Charles Sturt University.
 
 Before joining CSU in 2020, Louise worked for over a decade at the National Archives of Australia in government information and audiovisual preservation. She was a records manager at the Australian National Maritime Museum and worked as a consultant archivist for small arts organisations in Sydney. Louise’s research focuses on items that evade meaningful digitisation. Case studies in her PhD focused on performances made using obsolete media such as 8mm film.
@@ -291,6 +330,7 @@ Louise finalised her PhD at the University of Canberra. She also holds a Master 
 # Boundary crossing: strengthening disaster management during climate change
 
 **Abstract:**
+
 The increased severity of disasters posed by climate change heightens the pivotal role played by disaster management. A range of international peak bodies such as UNESCO’s World Heritage Centre section on Climate Change and World Heritage (2021)[\[6\]](#_ftn6) have highlighted the elevated risk of disasters associated with extreme weather and cascading events that pose heightened risks to all of our cultural collections.
 
 In an international landscape of climate change, limited resources, and rapidly expanding collections effective disaster management is critical, as disasters can result in the loss of highly significant cultural heritage. However, a major Australian research project, undertaken in the context of Australian national state and territory (NSLA) libraries, has uncovered that the approaches to disaster management are largely divided and uncoordinated between the physical and digital domains. Although our heritage collections typically comprise physical and digital resources, the disaster management approaches for these hybrid collections are largely uncoordinated and disconnected.
@@ -298,11 +338,13 @@ In an international landscape of climate change, limited resources, and rapidly 
 The outcomes of the research project have demonstrated the feasibility of boundary crossing, integrating disaster management across physical and digital collections to coordinate and strengthen the overall approach. A practical application of the research has resulted in the updating of the Australian Library and Information Association (ALIA) disaster resources[\[7\]](#_ftn7) in an integrated approach that crosses the boundaries between the two domains. The ALIA disaster resources assist staff in coordinating and collaborating across the physical and digital domains, helping them to plan ahead, build their confidence and resilience and to strengthen their response when the next disaster strikes their collections.
 
 **Name and Institution of Proponent:**
+
 Dr Heather Brown
 
 Assistant Director, Artlab Australia and Librarian, Education and Sector standards, Australian Library and Information Association (ALIA)
 
 **Bio:**
+
 **Dr Heather Brown** has a dual role as an Assistant Director at Artlab Australia, one of Australia’s leading conservation organisations, and as Education and Sector Standards Librarian at the Australian Library and Information Association (ALIA). She also delivers lectures to students in the Library and Information Management program at the University of South Australia on aspects of digital and physical preservation management. More broadly, she has delivered presentations and training on preservation issues to colleagues across Australia, New Zealand, Singapore, the Philippines, Thailand, Indonesia, Sri Lanka and India.
 
 Heather’s research interests are in the interrelationships between physical and digital preservation and in an integrated approach to disaster management of physical and digital collections. She has co-authored the ALIA disaster management [guide](https://read.alia.org.au/alia-disaster-management-libraries-part-one-guide) and template [plan](https://read.alia.org.au/alia-disaster-management-libraries-part-two-disaster-plan-template)  that provide a flexible framework for integrated collections disaster management.
@@ -312,19 +354,23 @@ Heather’s research interests are in the interrelationships between physical an
 # Pigs & Fishes in the Archives: Observations & Opportunities from Researching Singapore’s Recent Agricultural Past
 
 **Abstract:**
+
 While the implications of the global climate crisis are indeed sobering, renewed public and institutional interest in environmental issues such as sustainability and climate-resilience presents historical researchers with new opportunities to tell important, previously-overlooked stories from the archives. Historical research into Singapore’s post-independence experiences has traditionally focused on the political and socioeconomic dimensions of the nation’s development. In recent years, however, growing public interest in environmental issues such as natural heritage, sustainable development, and climate change has been matched by a corresponding growth in exhibitions, festivals, and lectures with environmentally-related themes, organised by local memory institutions such as the National Library Board and the National Heritage Board. The COVID-19 pandemic and the Russian-Ukraine war have also rekindled long-running anxieties around issues of food security and resource-resilience. These interesting times represent opportunities for historians, archivists, and other allied professions to contemplate how they can contribute to such contemporary discourses. In this presentation, I share my experiences as a historical researcher at a local think-tank, working at the intersections between Singapore’s environmental past and present policymaking. By sharing my experiences conducting archival research into the histories of pig farming and marine fisheries in Singapore for public service audiences, I reflect on the challenges and opportunities of rendering archival research relevant and meaningful to government stakeholders primarily concerned with contemporary issues such as environmental sustainability, food security, and climate-resilience.
 
 **Name and Institution of Proponent:**
+
 Choo Ruizhi
 
 Senior Analyst, National Security Studies Programme, S Rajaratnam School of International Studies, Nanyang Technological University, Singapore
 
 **Bio:**
+
 **Choo Ruizhi** is a Senior Analyst at National Security Studies Programme in the S Rajaratnam School of International Studies, Nanyang Technological University, Singapore. He holds a Master of Arts (History) from the National University of Singapore. His research interests include the environmental histories of Singapore and Malaya in the nineteenth and twentieth centuries. Presently, he is conducting research on the porcine and piscine aspects of Singapore’s post-independence agricultural histories. 
 
 # Determining and Integrating Environmental Values into Community Archiving
 
 **Abstract:**
+
 Recent work and initiatives related to community archives have been challenging the traditions surrounding the archival practice, including its methodologies. While archivists may have an idea about the operationalisation of the concept of community archiving, the actual members of communities involved must be given the chance to reflect on their own culture and values that should be evident on the archives that will represent them. Further, the COVID-19 pandemic hinders the usual on-site engagements in community archiving. There is a need, therefore, to develop new approaches on how to start and maintain engagements with the community despite doing it virtually, and at the same time integrating important indigenous and community values especially those that are closely linked to their environment.
 
 In this presentation, the authors will present a community archiving project done with a select group of volunteers in Sagada, Mountain Province – a mountainous region in the Philippines populated by the _Kankanaey_ whose main livelihood is largely dependent on the utilization of natural resources and the environment (i.e. agriculture and tourism). Originally, the project was supposed to be done face-to-face, but due to the pandemic restrictions, the authors needed to re-examine and adjust the approaches that would suit the needs of the community. Different creative methods of community engagement were utilized during the online synchronous and asynchronous sessions. The participants exhibited how they valued their culture and their environment, making their personal environmental values as a major defining value and principle that shape them as a community. Integrating these values helped the group (authors/archivists and community members) identify community-specific requirements, stories, and ways to represent themselves in and through their archives.
@@ -345,9 +391,7 @@ MARTIN JULIUS V. PEREZ, Communications and Records Officer (attache) of one of 
 
 **MARTIN JULIUS V. PEREZ** is a communications and records officer (attache) of one of the embassies of the Philippines’ Department of Foreign Affairs (DFA), wherein he has been involved in records and archives management in the agency since 2014. He is also a part-time lecturer on archives and records management in the UP School of Library and Information Studies. He obtained his bachelor’s degree in LIS (magna cum laude) in 2011, and is currently working to finish his master’s degree in LIS at the UP SLIS.  Martin is a licensed librarian, and formerly worked for the Sto. Domingo Convent Archives and Library, the Far Eastern University Library, Carlos P. Romulo Library of the Foreign Service Institute, and the DFA Archives.
 
-  
-
-**Title: The UK and Ireland’s ARA Environmental Sustainability Group**
+# The UK and Ireland’s ARA Environmental Sustainability Group
 
 **Abstract:**
 
@@ -373,7 +417,7 @@ Secretary, The ARA Environmental Sustainability Group
 
 **Amy Cawood** is Corporate Records Manager at the National Health Service (NHS) Forth Valley based in Larbert, Scotland. Amy is responsible for ensuring compliance with the Public Records (Scotland) Act and advising on the management of NHS records throughout their lifecycle, until destruction or transfer to archive. She is an active member of the NHS National Records Management Forum and completed her MSc in Records Management and Digital Preservation in 2016. She has worked in a wide range of sectors: university libraries, special collections and in the Civil Service as an Information Assurance Officer. Through her varied experience she has seen that there is a rapidly increasing awareness of our role as custodians of records and archives and the potential impact of what we do on the environment. Amy is therefore keen to understand more about my personal and professional role in sustainability and the environment and believes that there is no better way than participation in the new ARA Environmental Sustainability Group.
 
-**Title: A Conflict of Duty: Preservation and Environmental Sustainability**
+# A Conflict of Duty: Preservation and Environmental Sustainability
 
 **Abstract:**
 
@@ -393,7 +437,7 @@ Georgina Robinson, Eton College Archives
 
 **Georgina Robinson** is an archivist at Eton College Archives and Chair of the ARA Environmental Sustainability Group. She is interested in the intersection between records and the environment and wrote her MA dissertation on attitudes and efforts to implement climate action by UK information professionals in 2020, which was adapted for publication in the Records Management Journal in a special issue on records management in the Anthropocene (Issue 3, 2021).
 
-**Title: Impact of disasters on archival collections and facilities and the archives’ response**
+# Impact of disasters on archival collections and facilities and the archives’ response
 
 **Abstract:**
 
@@ -409,7 +453,7 @@ Ms. Saw Nan Nwe, The National Archives of Myanmar
 
 I am **Ms. Saw Nan Nwe** working for the National Archives of Myanmar for twenty nine years since I have got my first degree. I have got Master of Public Administration (MPA) from Yangon University of Economics in 2017. I haven’t got any diploma and degree in Archival studies but I have learned that from my seniors and in job training since I joined my job. Some of my seniors have got degree at Master in Records and Archives Management from abroad. In addition, my seniors were trained by experts from American, Canada, UK, Malaysia and India in 1982 according the UNDP Program. Now all of seniors were retired. As I have mentioned above, I have been learning archival studies from my seniors and short term training course from National Archives of Malaysia, Singapore and Korea. Besides, I attend International Seminars searching about National Archives of different countries from their website and reading publications of ICA that all about is my learning experience. Then, I contribute my experience and knowledge to our staff and other staff from public offices.
 
-**Title: The Drowned and the Saved: Archives during the 1966 flood of Florence and their Disaster Recovery Plan (DRP)**
+# The Drowned and the Saved: Archives during the 1966 flood of Florence and their Disaster Recovery Plan (DRP)
 
 **Abstract:**
 
@@ -431,7 +475,7 @@ Elena Gonnelli, University of Florence and Lorenzo Sergi, University of Cagliari
 
   
 
-**Title:** **Preserving the Cultural Heritage of the** **_Ifugaos_** **of the Cordillera Administrative Region in the Philippines Amidst the Threats of Climate Change and Natural Disasters**
+# Preserving the Cultural Heritage of the _Ifugaos_  of the Cordillera Administrative Region in the Philippines Amidst the Threats of Climate Change and Natural Disasters
 
 **Abstract:**
 
@@ -447,7 +491,7 @@ Mary Grace P. Golfo-Barcelona, School of Library and Information Studies, Univer
 
 **Mary Grace P. Golfo-Barcelona** is a graduate of Master of Library and Information Science from the School of Library and Information Studies, University of the Philippines Diliman (UP SLIS), and Joint Masters Program in Archival Studies from the University of Manitoba and University of Winnipeg under the Department of History. She is presently a PhD Candidate in Anthropology at the University of Manitoba, in Winnipeg, Canada.  Her doctoral research focuses on the archiving of intangible and tangible cultural heritage of selected indigenous communities affected by the worsening natural disasters in the Philippines. She is also an assistant professor at the UP SLIS teaching courses on collection management for libraries, records management and basic archival principles and practices.
 
-**Title: Sustainability and Conservation Are One and The Same. Caring for Your Archives Without Costing the Earth.**
+# Sustainability and Conservation Are One and The Same. Caring for Your Archives Without Costing the Earth.
 
 **Abstract:**
 
@@ -488,8 +532,7 @@ Lorraine is a sustainability advisor in cultural heritage. As Director and found
 Lorraine is a Director and Trustee of the Institute of Conservation \[Icon\]. She is co-founder and Chair of the Icon Environmental Sustainability Network.
 
   
-
-**Title: FLOOD DISASTER: WE CARE, WE RESCUE**
+# FLOOD DISASTER: WE CARE, WE RESCUE
 
 **Abstract:**
 
@@ -505,7 +548,7 @@ TBA
 
   
 
-**Title: Finding the Balance: Hotter and Muggier; Older and Rarer**
+# Finding the Balance: Hotter and Muggier; Older and Rarer
 
 **Abstract:**
 
@@ -529,7 +572,7 @@ Tieh Yong is passionate about atmospheric dynamics, geophysical mixing, and Sout
 
   
 
-**Title: Archival Advocacy in the Age of Climate Change: Evoking the Pathos of the Destruction of Recorded Knowledge**
+# Archival Advocacy in the Age of Climate Change: Evoking the Pathos of the Destruction of Recorded Knowledge
 
 **Abstract:**
 
@@ -545,7 +588,7 @@ Benjamin Choo, Singapore University of Social Sciences.
 
   
 
-**Title: Selection & Self-Preservation**
+# Selection & Self-Preservation
 
 **Abstract:**
 
@@ -561,7 +604,7 @@ Mia Lee, Singapore University of Social Sciences
 
   
 
-**Title: The Historian’s Awareness of Preservation / Sustainability Issues**
+# The Historian’s Awareness of Preservation / Sustainability Issues
 
 **Abstract:**
 
