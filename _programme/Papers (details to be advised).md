@@ -807,6 +807,3 @@ Priscilla Pun, University of Macau Library / IFLA Environment, Sustainability an
 **Bio:**
 
 **Priscilla Pun** is the Head of Technical Process Unit of the University of Macau Library, Macao, China. She holds a master’s degree in business administration. Her areas of expertise include collection development, metadata management, information literacy and research support services. She is the Chief Supervisor of the Macao Library and Information Management Association, Executive Member of Macau Documentation and Information Society, and Member of the Information Literacy Professional Committee of Library Society of China. She has been serving for IFLA since 2018 and is currently the Information Coordinator of Environment, Sustainability and Libraries Section of IFLA.
-
-  
-
