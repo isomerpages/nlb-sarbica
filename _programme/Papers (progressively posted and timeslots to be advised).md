@@ -3,9 +3,6 @@ title: Papers (progressively posted and timeslots to be advised)
 permalink: /programme/papers
 description: ""
 ---
-
-
-
 # **Who makes GLAM sustainable?: A introduction to the British Library Sustainability Group and professional agency for GLAM workers in the climate crisis**
 
 **Abstract**: 
@@ -804,3 +801,23 @@ Priscilla Pun, University of Macau Library / IFLA Environment, Sustainability an
 **Bio:**
 
 **Priscilla Pun** is the Head of Technical Process Unit of the University of Macau Library, Macao, China. She holds a master’s degree in business administration. Her areas of expertise include collection development, metadata management, information literacy and research support services. She is the Chief Supervisor of the Macao Library and Information Management Association, Executive Member of Macau Documentation and Information Society, and Member of the Information Literacy Professional Committee of Library Society of China. She has been serving for IFLA since 2018 and is currently the Information Coordinator of Environment, Sustainability and Libraries Section of IFLA.
+
+#         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:DengXian; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"Segoe UI"; panose-1:2 11 5 2 4 2 4 2 2 3; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073683329 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:auto; mso-font-signature:0 0 0 0 0 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+# **Green Skills Training for the Archival Professionals**
+
+**Abstract:**
+
+Green skills are the technical skills. The knowledge, ability, values and attitude needed to live in and support a sustainable and resource efficient society. The green skills will be needed by all sectors and at all levels in the workforce. It is no doubt green skills are also needed to the archival professionals in the archival profession likewise museums and libraries. Green skills are generally composed of three dimensions namely knowledge, skills / abilities and attitude / values. It may be cognitive, psychomotor or offensive dimension. So that Archival Professionals able to promote sustainable development in social, economy and environment. 
+
+This paper deals a realistic frame work of strategies and resources needed to incorporate more affordable, sustainable, and socially responsible archival management practices into the archival profession. Therefore, a formal training is required regarding green skills for the archival profession. It is very much essential so that they contribute to preserve or restore the environment being the custodians of the documentary cultural heritage.  The green skills trained archival professional can perform very well and it is a primer for adopting affordable environmentally sustainable and socially responsible archival management practices. By acquiring the training Archival Professionals would be performed regarding global issues known as environmental sustainability, or meeting the economic, environmental, social, and cultural needs of the present without compromising the same needs of future generations. By having the green skills, an archival professional can perform sustainable archives services and facilities including ecologically sensitive business operations.
+
+Keywords: Green skills, Archival profession, Sustainability, Environment, Ecosystem, Preservation, Archival heritage.
+
+**Name and Institution of Proponent:**
+
+Dr. Sarvesh Singh, Chemist/Manager, Reserve Bank of India Archives, Reserve Bank of India
+
+**Bio:**
+
+Dr. Sarvesh Singh holds a Ph.D. in Science, MBA in Finance, MA in History, Post Graduate Diploma in Ecology and Environment, Diploma in Heritage Site Management & Scientific Conservation, Diploma in Medical Records Management, Certificate in Preservation Microfilming, Introduction to Archival Preservation, Records Management, Introduction to Archival Practices, Managing Plans and Drawings, Documentation and Digitization in Archives, Museology and Archival Science & its contemporary appropriation  and Numismatics.  He is fellow of the Metropolitan Museum of Art (MET), New York, USA under the Indian Conservation Fellowship Program. He joined RBI Archives in year 2003 and responsible for conservation of archival documentary heritage. He has experience in conservation of cultural heritage and resource person for delivering the lecture, setting the exams paper & evaluation of its, examiner as evaluation of M.Phil. & Diploma dissertation in different Institutions. He also has experience of working in area of environmental pollution in a leading business / industrial conglomerate in India. He has participated and presented so many papers in International / National Conferences related to conservation in India and abroad. He has published eleven papers in national and international journals and books. He is also a member of various committee / professional bodies at national and international.
