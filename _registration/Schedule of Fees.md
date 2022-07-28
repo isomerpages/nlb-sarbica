@@ -3,9 +3,8 @@ title: Schedule of Fees
 permalink: /fees
 description: ""
 ---
-Registration will open in late June 2022. 
-
-
+Please click 
+[here](https://www.sarbica2022.sg/registration/ ) to register now!
 
 | Registration Categories | Early Bird (SGD) | Regular (SGD) |
 | -------- | -------- | -------- |
@@ -15,4 +14,4 @@ Registration will open in late June 2022.
 
 *The Workshop capacity is capped at 40pax and it is subject to first come first serve basis.
 
-All prices quoted are subjected to 7% goods and services tax. 
+All prices quoted are subjected to 7% goods and services tax.
