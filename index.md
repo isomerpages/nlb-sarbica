@@ -11,7 +11,7 @@ sections:
       button: Registration is now opened!
       url: "https://www.sarbica2022.sg/registration/ "
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: ""
+          description: ""
           url: ""
 ---
