@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/sarbica hero banner (1920 × 720 px) 3.png
-      button: Registration is now opened!
+      button: Registration is now open!
       url: "https://www.sarbica2022.sg/registration/ "
       key_highlights:
         - title: ""
