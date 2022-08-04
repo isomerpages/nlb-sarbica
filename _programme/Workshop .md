@@ -26,7 +26,6 @@ The cultural heritage community has engaged with environmental sustainability in
 
 The Workshop fee is SGD90 (early bird until 31 August 2022), and SGD100 after 31 August 2022. 
 
-**Maximum no. of participants:** 40, on first-come-first-served basis
 
 **About the Trainers**:
 
