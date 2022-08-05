@@ -5,7 +5,7 @@ description: ""
 ---
 # Enacting Environmentally Sustainable Digital Preservation
 
-**Abstract**
+**Abstract:**
 
 The cultural heritage community has engaged with environmental sustainability in many areas, but is still in the early stages of implementing sustainability principles in digital preservation activities. Building off “Toward Environmentally Sustainable Digital Preservation” (American Archivist 2019), the workshop facilitators will introduce the sustainability framework proposed by the authors and lead a discussion session in which participants explore sustainable actions within the context of the framework and think through how they can implement these actions at their organizations. Based on these conversations, the facilitators and attendees will then work together to build initial implementation strategies. The facilitators envision that the workshop will be a starting point for participants in their efforts to enact environmentally sustainable digital preservation.
 
