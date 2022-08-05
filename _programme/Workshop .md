@@ -21,7 +21,11 @@ The cultural heritage community has engaged with environmental sustainability in
 40 pax, on a first-come-first-served basis 
 
 **Registration** **Fee** **and** **Details**: 
-To Be Advised 
+
+[**Registration**](https://www.sarbica2022.sg/registration/) is open now!
+
+The Workshop fee is SGD90 (early bird until 31 August 2022), and SGD100 after 31 August 2022. 
+
 
 **About the Trainers**:
 
