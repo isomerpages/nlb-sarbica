@@ -1,6 +1,6 @@
 ---
 title: Papers (progressively posted and timeslots to be advised)
-permalink: /programme/papers
+permalink: /programme/papers/
 description: ""
 ---
 # **Who makes GLAM sustainable?: A introduction to the British Library Sustainability Group and professional agency for GLAM workers in the climate crisis**
@@ -818,3 +818,35 @@ Dr. Sarvesh Singh, Chemist/Manager, Reserve Bank of India Archives, Reserve Bank
 **Bio:**
 
 Dr. Sarvesh Singh holds a Ph.D. in Science, MBA in Finance, MA in History, Post Graduate Diploma in Ecology and Environment, Diploma in Heritage Site Management & Scientific Conservation, Diploma in Medical Records Management, Certificate in Preservation Microfilming, Introduction to Archival Preservation, Records Management, Introduction to Archival Practices, Managing Plans and Drawings, Documentation and Digitization in Archives, Museology and Archival Science & its contemporary appropriation  and Numismatics.  He is fellow of the Metropolitan Museum of Art (MET), New York, USA under the Indian Conservation Fellowship Program. He joined RBI Archives in year 2003 and responsible for conservation of archival documentary heritage. He has experience in conservation of cultural heritage and resource person for delivering the lecture, setting the exams paper & evaluation of its, examiner as evaluation of M.Phil. & Diploma dissertation in different Institutions. He also has experience of working in area of environmental pollution in a leading business / industrial conglomerate in India. He has participated and presented so many papers in International / National Conferences related to conservation in India and abroad. He has published eleven papers in national and international journals and books. He is also a member of various committee / professional bodies at national and international.
+
+# **Inspire, engage, enable, connect**
+
+**Abstract:**
+
+IFLA’s keywords are “inspire, engage, enable and connect” but IFLA also emphasizes that sustainability is libraries’ business. Sustainability has become an essential part of IFLA’s mission. Libraries are seen as exemplars, educators, and enablers which promote sustainability in their own communities.
+
+UN’s Sustainable Development Goals take a broader approach to sustainability which includes economic, social, and environmental aspects. This enforces libraries to reconsider what sustainability means in library framework – and this not always clear.
+
+ENSULIB was established in 2009 when the topic was not as central. For ten years ENSULIB has promoted sustainability, published books, and launched IFLA Green Library Award. These activities have been in accordance with the present IFLA theme “inspire, engage, enable and connect” as well as SDGs.
+
+ENSULIB, like the library field, are facing challenges. The concept of sustainability has broadened. Originally, Green library movement was established by architects who were interested in library buildings, but the present conception is much wider:
+
+•           Sustainability is not restricted to environmental sustainability, but also economic and social aspects are relevant.
+
+•           Sustainability is not only about library buildings, but must penetrate all activities, including collections and services.
+
+•           SDGs introduce new perspectives and libraries should consider how they contribute to goals, like Good Health and Wellbeing, Quality Education, Gender Equality, Reduced Inequalities, Responsible Consumption and Production.
+
+Consequently, libraries must interpret these objectives in the library framework – what do they mean to public or university libraries, in different parts of the world and cultures. The IFLA Green Library Award winners offer good examples how libraries have answered the challenge.
+
+**Name and Institution of Proponent:**
+
+Harri Sahavirta, ENSULIB Chair
+
+Chief librarian, Helsinki City Library
+
+**Bio:**
+
+Harri Sahavirta, Helsinki City Library, Finland.
+
+Ph.d. Harri Sahavirta is the chief librarian in Arabianranta and Vallila libraries, Helsinki City Library. He has served as project manager in many national projects, like ”Environmental Sustainability in Public Libraries to 2020s”, “Changing soundscapes of Public Libraries” and “Public libraries as promotors for adult reading”. He has also worked in environmental projects in Helsinki City Library. He has been active member of Environment, Sustainability and Libraries IFLA Special Interest Group (ENSULIB) since 2011 and was the convenor of the group 2015-2019 and secretary in 2020.  He is the chair of the ENSULIB section 2021–2023.
