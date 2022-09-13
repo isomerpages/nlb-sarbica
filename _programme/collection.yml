@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Workshop .md
-      - Symposium Schedule (details to be advised).md
+      - Schedule for Keynotes and Paper Sessions.md
       - Keynote 1.md
       - Keynote 2.md
       - Papers and Bios.md
