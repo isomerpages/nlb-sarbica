@@ -1,6 +1,6 @@
 ---
 title: "Workshop "
-permalink: /programme/workshops
+permalink: /programme/workshops/
 description: ""
 ---
 # Enacting Environmentally Sustainable Digital Preservation
@@ -15,7 +15,7 @@ The cultural heritage community has engaged with environmental sustainability in
 15 November 2022
 
 **Time**: 
-09:00 to 10:00 Singapore local time 
+**09:00 am to 10:00 am SINGAPORE LOCAL TIME**
 
 **Maximum Number of Participants**:
 40 pax, on a first-come-first-served basis 
