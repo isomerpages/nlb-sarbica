@@ -1,8 +1,9 @@
 ---
-title: Papers (progressively posted and timeslots to be advised)
+title: Papers and Bios
 permalink: /programme/papers/
 description: ""
 ---
+
 # **Who makes GLAM sustainable?: A introduction to the British Library Sustainability Group and professional agency for GLAM workers in the climate crisis**
 
 **Abstract**: 
