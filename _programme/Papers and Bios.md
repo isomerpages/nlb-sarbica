@@ -261,7 +261,7 @@ It is clear that rapid and radical transformation towards a low-carbon society i
 
 2:35 pm – 3:00 pm
 
-_Pushing “Optimal” Forward: A Framework for Exploring Synergies for Promoting Preservation and Sustainability Simultaneously at Each Level of Control_
+# Pushing “Optimal” Forward: A Framework for Exploring Synergies for Promoting Preservation and Sustainability Simultaneously at Each Level of Control
 
 **Kelly McCauley Krish, Senior Preventive Conservator, National Museum Cardiff, UK**
 
@@ -281,7 +281,7 @@ For more than 35 years, the Image Permanence Institute (IPI) has conducted labor
 
 3:00 pm – 3:25 pm
 
-_Digital Preservation sustainably for sustainability_
+# Digital Preservation sustainably for sustainability
 
 **Dr. David Giaretta, Director, Giaretta Associates Ltd and  PTAB Ltd, UK**
 
@@ -327,7 +327,7 @@ Archival materials are vulnerable to many disaster forces ranging from unthought
 
 2:35 pm – 3:00 pm
 
-_The Drowned and the Saved: Archives during the 1966 flood of Florence and their Disaster Recovery Plan (DRP)_
+# The Drowned and the Saved: Archives during the 1966 flood of Florence and their Disaster Recovery Plan (DRP)
 
 **Elena Gonnelli, PhD student, University of Florence, Italy**
 
@@ -349,7 +349,7 @@ Looking at past experience will help build a stronger foundation for the future.
 
 3:00 pm – 3:25 pm
 
-_Sustainability and Conservation Are One and The Same. Caring for Your Archives Without Costing the Earth_
+# Sustainability and Conservation Are One and The Same. Caring for Your Archives Without Costing the Earth*
 
 **Lorraine Finch, Director, LFCP, UK**
 
@@ -391,7 +391,7 @@ Lorraine is a Director and Trustee of the Institute of Conservation \[Icon\]. Sh
 
 3:50 pm – 4:15 pm
 
-_A Conflict of Duty: Preservation and Environmental Sustainability_
+# A Conflict of Duty: Preservation and Environmental Sustainability
 
 **Georgina Robinson, Archivist, Eton College, UK**
 
@@ -407,11 +407,9 @@ From this study there also arose a contradiction. A changing climate poses many 
 
 **Bio:**
 
-**Georgina Robinson** is an archivist at Eton College Archives and Chair of the ARA Environmental Sustainability Group. She is interested in the intersection between records and the environment and wrote her MA dissertation on attitudes and efforts to implement climate action by UK information professionals in 2020, which was adapted for publication in the Records Management Journal in a special issue on records management in the Anthropocene (Issue 3, 2021).
-
-4:15 pm – 4:40 pm
-
-_The UK and Ireland’s ARA Environmental Sustainability Group_
+**Georgina Robinson** is an archivist at Eton College Archives and Chair of the ARA Environmental Sustainability Group. She is interested in the intersection between records and the environment and wrote her MA dissertation on attitudes and efforts to implement climate action by UK information professionals in 2020, which was adapted for publication in the Records Management Journal in a special issue on records management in the Anthropocene issue 3, 2021).
+#4:15 pm – 4:40 pm
+# The UK and Ireland’s ARA Environmental Sustainability Group
 
 **Amy Cawood, Secretary, Group Secretary, ARA Environmental Sustainability Group**
 
