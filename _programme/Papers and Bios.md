@@ -408,7 +408,8 @@ From this study there also arose a contradiction. A changing climate poses many 
 **Bio:**
 
 **Georgina Robinson** is an archivist at Eton College Archives and Chair of the ARA Environmental Sustainability Group. She is interested in the intersection between records and the environment and wrote her MA dissertation on attitudes and efforts to implement climate action by UK information professionals in 2020, which was adapted for publication in the Records Management Journal in a special issue on records management in the Anthropocene issue 3, 2021).
-#4:15 pm – 4:40 pm
+
+4:15 pm – 4:40 pm
 # The UK and Ireland’s ARA Environmental Sustainability Group
 
 **Amy Cawood, Secretary, Group Secretary, ARA Environmental Sustainability Group**
@@ -435,7 +436,7 @@ The proposed topic for the SARBICA International Symposium will feature research
 
 3:50 pm – 4:15 pm
 
-_Powering Green and Sustainable Development in Libraries_
+# Powering Green and Sustainable Development in Libraries
 
 **Priscilla Pun, Head of Technical Service of the University Library, University of Macau**
 
@@ -481,9 +482,9 @@ Ph.d. Harri Sahavirta is the chief librarian in Arabianranta and Vallila librari
 
 **9:10 am – 10:05 am (inclusive of Q&A)** 
 
-**KEYNOTE 2**
-
-_Where does the balance lie and are we there yet? Archival values versus saving the environment_
+# KEYNOTE 2
+# 
+# Where does the balance lie and are we there yet? Archival values versus saving the environment
 
 **Dr. Valerie Johnson**
 
@@ -514,8 +515,8 @@ Valerie is a Registered Member of the Society of Archivists, a Fellow of the Roy
 **SESSION 5A:  10:15 am – 11:45 am (inclusive of Q&A)**
 
 10:15 am – 10:40 am
-
-_Sustainability Principles applied on Archivistic Practice_
+# 
+# Sustainability Principles applied on Archivistic Practice
 
 **Roberto Ricardo Carlos Grosse Junior, Manager of the Archive Preservation and Conservation Service, Senate of Brasil**
 
@@ -539,7 +540,7 @@ TBA
 
 10:40 am – 11:05 am
 
-_A Green Inquiry on the Records Disposition Program for Public Records in the Philippines_
+# A Green Inquiry on the Records Disposition Program for Public Records in the Philippines
 
 **Martin Julius V. Perez, Communications and Records Officer (Attache), Department of Foreign Affairs, Republic of the Philippines**
 
@@ -559,7 +560,7 @@ Records disposition program in the Philippine government is governed by Republic
 
 11:05 am – 11:30 am
 
-_INTENDENCIA BUILDING: HERITAGE BUILDING AS SUSTAINABLE HERITAGE_
+# INTENDENCIA BUILDING: HERITAGE BUILDING AS SUSTAINABLE HERITAGE
 
 **VICTORINO MAPA MANALO, CESE, Executive Director, National Archives of the Philippines**
 
@@ -593,7 +594,7 @@ He is a writer who has won national prizes like the Don Carlos Palanca Award for
 
 10:15 am – 10:40 am
 
-_Opportunities for improving sustainable practices and preservation at the Alexander Turnbull Library, New Zealand_
+# Opportunities for improving sustainable practices and preservation at the Alexander Turnbull Library, New Zealand
 
 **Dr. Vesna Živković, Senior Conservator - Preventive Conservation, National Library of New Zealand Te Puna Mātauranga o Aotearoa**
 
@@ -619,7 +620,7 @@ Before joining ATL Vesna worked at the National Museum, Belgrade, as curator for
 
 10:40 am – 11:05 am
 
-_Exploring the use of a value-based approach to implement a more sustainable strategy for storing and displaying the National Collection at the Heritage Conservation Centre (HCC) in Singapore_
+# Exploring the use of a value-based approach to implement a more sustainable strategy for storing and displaying the National Collection at the Heritage Conservation Centre (HCC) in Singapore
 
 **Christel Pesme, Chief Conservator, Heritage Conservation Centre, National Heritage Board, Singapore**
 
@@ -640,8 +641,8 @@ Defining an item’s Collection lifespan according to its \`Collection Value’ 
 **SESSION 6A: 11:55 am – 1:25 pm (inclusive of Q&A)**
 
 11:55 am – 12:20 pm
-
-_Greening of Singapore_
+# 
+# Greening of Singapore
 
 **Lim Tin Seng, Senior Librarian, National Library of Singapore**
 
@@ -655,7 +656,7 @@ This paper examines the greening of urban Singapore over the course of about 150
 
 12:20 pm – 12:45 pm
 
-_Mapping Sea-Level Change in Time and Space_
+# Mapping Sea-Level Change in Time and Space
 
 **Prof. Benjamin P. Horton, Director, Earth Observatory of Singapore, Nanyang Technological University**
 
@@ -679,7 +680,7 @@ Professor Horton’s research concerns sea-level change, with the aim of underst
 
 12:45 pm – 1:10 pm
 
-_Pigs & Fishes in the Archives: Observations & Opportunities from Researching Singapore’s Recent Agricultural Past_
+# Pigs & Fishes in the Archives: Observations & Opportunities from Researching Singapore’s Recent Agricultural Past
 
 **Choo Ruizhi, Senior Analyst, National Security Studies Programme, S Rajaratnam School of International Studies, Nanyang Technological University, Singapore**
 
@@ -693,7 +694,7 @@ While the implications of the global climate crisis are indeed sobering, renewed
 
 **SESSION 6B: 11:30 am – 1:00 pm (inclusive of Q&A)** 
 
-_Land, Air, and Water: an Environmental History Perspective on Archival Research_
+# Land, Air, and Water: an Environmental History Perspective on Archival Research
 
 **Abstract:**
 
@@ -701,7 +702,7 @@ This panel brings together three historians of the environment, each with an int
 
 11:30am-11:55am
 
-_A Nineteenth-Century Environmental Crisis and the Archives in Singapore_
+# A Nineteenth-Century Environmental Crisis and the Archives in Singapore
 
 **Dr. Timothy P. Barnard, Associate Professor, National University of Singapore**
 
@@ -711,7 +712,7 @@ As colonialism became ensconced in Singapore after 1819, the landscape and socie
 
 11:55 am-12:20 pm
 
-_El Niño and the human-environment nexus: drought and vulnerability in Singapore 1877-1911_
+# El Niño and the human-environment nexus: drought and vulnerability in Singapore 1877-1911
 
 **Dr. Fiona Williamson, Associate Professor, Singapore Management University**
 
@@ -721,7 +722,7 @@ In 1877, 1902, and in 1911, Singapore and much of the world were hit by record d
 
 12:20 pm-12:45 pm
 
-_The hungry city: A history of Singapore’s fish supply from ikan siakap to Asian seabass_
+# The hungry city: A history of Singapore’s fish supply from ikan siakap to Asian seabass
 
 **Anthony D. Medrano, Assistant Professor, National University of Singapore (NUS) Presidential Young Professor of Environmental Studies at Yale-NUS College**
 
