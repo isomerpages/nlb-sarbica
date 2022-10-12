@@ -450,7 +450,7 @@ IFLA ENSULIB’s aim is to encourage librarians to inspire their communities int
 
 4:15 pm – 4:40 pm
 
-_Inspire, engage, enable, connect_
+# Inspire, engage, enable, connect
 
 **Harri Sahavirta, IFLA ENSULIB Chair / Chief Librarian, Helsinki City Library**
 
@@ -478,7 +478,7 @@ Consequently, libraries must interpret these objectives in the library framework
 
 Ph.d. Harri Sahavirta is the chief librarian in Arabianranta and Vallila libraries, Helsinki City Library. He has served as project manager in many national projects, like ”Environmental Sustainability in Public Libraries to 2020s”, “Changing soundscapes of Public Libraries” and “Public libraries as promotors for adult reading”. He has also worked in environmental projects in Helsinki City Library. He has been active member of Environment, Sustainability and Libraries IFLA Special Interest Group (ENSULIB) since 2011 and was the convenor of the group 2015-2019 and secretary in 2020.  He is the chair of the ENSULIB section 2021–2023.
 
-            Thursday, 17 November, 9:00 am to 5:00 pm **SINGAPORE TIME**
+Thursday, 17 November, 9:00 am to 5:00 pm **SINGAPORE TIME**
 
 **9:10 am – 10:05 am (inclusive of Q&A)** 
 
