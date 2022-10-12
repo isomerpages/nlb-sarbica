@@ -741,8 +741,7 @@ From trade flows to cultural exchanges, historians have long explored how the se
 **SESSION 7A:  2:00 pm – 3:55 pm (inclusive of Q&A)**
 
 2:00 pm – 2:25 pm
-
-_Finding the Balance: Hotter and Muggier; Older and Rarer_
+# Finding the Balance: Hotter and Muggier; Older and Rarer
 
 **Dr. Koh Tieh Yong, Associate Professor, Singapore University of Social Sciences**
 
@@ -764,7 +763,7 @@ Tieh Yong is passionate about atmospheric dynamics, geophysical mixing, and Sout
 
 2:25 pm – 2:50 pm
 
-_Archival Advocacy in the Age of Climate Change: Evoking the Pathos of the Destruction of Recorded Knowledge_
+# Archival Advocacy in the Age of Climate Change: Evoking the Pathos of the Destruction of Recorded Knowledge
 
 **Dr. Benjamin Choo, Senior Lecturer, Singapore University of Social Sciences**
 
@@ -778,7 +777,7 @@ Archives are vulnerable to the ravages of climate change. But it will be a chall
 
 2:50 pm – 3:15 pm
 
-_Selection & Self-Preservation_
+# Selection & Self-Preservation
 
 **Mia Lee, Senior Lecturer, Singapore University of Social Sciences**
 
@@ -792,7 +791,7 @@ It is important that we remember that historians are partial arbiters of the pas
 
 3:15 pm – 3:40 pm
 
-_The Historian’s Awareness of Preservation / Sustainability Issues_
+# The Historian’s Awareness of Preservation / Sustainability Issues
 
 **Dr. Ho Chi Tim, Lecturer, Singapore University of Social Sciences**
 
