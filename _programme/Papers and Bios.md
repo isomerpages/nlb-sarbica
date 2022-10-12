@@ -807,7 +807,7 @@ To this historian, issues concerning the preservation and sustainability of arch
 
 1:35 pm – 2:00 pm
 
-_Sustainable Equals Holistic - formal education for green archivists_
+# Sustainable Equals Holistic - formal education for green archivists
 
 **Dr Louise Curham, Lecturer, School of Information Studies, Charles Sturt University, Australia**
 
@@ -829,7 +829,7 @@ Louise finalised her PhD at the University of Canberra. She also holds a Master 
 
 2:00 pm – 2:25 pm
 
-_Green Skills Training for the Archival Professionals_
+# Green Skills Training for the Archival Professionals
 
 **Dr. Sarvesh Singh, Chemist / Manager, Reserve Bank of India Archives**
 
@@ -847,7 +847,7 @@ Keywords: Green skills, Archival profession, Sustainability, Environment, Ecosys
 
 2:25 pm – 2:50 pm
 
-_Who makes GLAM sustainable?: A introduction to the British Library Sustainability Group and professional agency for GLAM workers in the climate crisis_
+# Who makes GLAM sustainable?: A introduction to the British Library Sustainability Group and professional agency for GLAM workers in the climate crisis
 
 **Morgane Lirette, (Formerly) Book and paper conservator and co-chair of the BL Sustainability Group, (Formerly) British Library, UK**
 
@@ -861,7 +861,7 @@ The consensus is in – human influence has ‘unequivocally’ driven today’s
 
 **FINALE SESSION:  4:05 pm – 4:45 pm (inclusive of Q&A)**
 
-_Archives and Climate Change: findings from the submissions of the special issue of Comma_
+# Archives and Climate Change: findings from the submissions of the special issue of Comma
 
 **Dr. Amy Tector, Manager, Library and Archives Canada**
 
