@@ -6,7 +6,7 @@ description: ""
 # **Details of the Keynotes and Paper Sessions on 16 and 17 Nov 2022**
 
 
-**Wednesday, 16 Nov 2022, 9:00 am to 5:00 pm **SINGAPORE TIME**
+Wednesday, 16 Nov 2022, 9:00 am to 5:00 pm **SINGAPORE TIME**
 
 **9:25 am – 10:20 am (inclusive of Q&A)**
 
@@ -128,7 +128,7 @@ Keywords: climate change, ring of fire, disaster archive
 
 11:20 am – 11:45 am
 
-# **Impact of disasters on archival collections and facilities and the archives’ response**
+# Impact of disasters on archival collections and facilities and the archives’ response
 
 **Saw Nan Nwe, Deputy Director General, National Archives of Myanmar**
 
@@ -146,7 +146,7 @@ I am **Ms. Saw Nan Nwe** working for the National Archives of Myanmar for twenty
 
 12:40 pm – 1:05 pm
 
-_What is the True Carbon Footprint of a Virtual Archives: Re-thinking Environmental Impact and Sustainability in the Context of Emerging Technologies_
+# What is the True Carbon Footprint of a Virtual Archives: Re-thinking Environmental Impact and Sustainability in the Context of Emerging Technologies
 
 **Dr. Eugenia Kim, Artist/researcher, Hong Kong**
 
