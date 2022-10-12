@@ -6,12 +6,12 @@ description: ""
 # **Details of the Keynotes and Paper Sessions on 16 and 17 Nov 2022**
 
 
-Wednesday, 16 Nov 2022, 9:00 am to 5:00 pm **SINGAPORE TIME**
+**Wednesday, 16 Nov 2022, 9:00 am to 5:00 pm** (SINGAPORE TIME)
 
 **9:25 am – 10:20 am (inclusive of Q&A)**
 
 # **KEYNOTE 1**
-# 
+
 # At the Heart of Sustainability
 
 **Karen Chan, Executive Director, Asian Film Archive**
@@ -40,7 +40,7 @@ Karen is the current President of the Southeast Asia-Pacific Audiovisual Archive
 
 # Can Digital Go Green? The Myth of Sustainable Digital Preservation
 
-**Jan Zastrow**, Archivist, Independent Consultant, USA
+**Jan Zastrow, Archivist, Independent Consultant, USA**
 
 **Abstract:**
 
@@ -478,12 +478,12 @@ Consequently, libraries must interpret these objectives in the library framework
 
 Ph.d. Harri Sahavirta is the chief librarian in Arabianranta and Vallila libraries, Helsinki City Library. He has served as project manager in many national projects, like ”Environmental Sustainability in Public Libraries to 2020s”, “Changing soundscapes of Public Libraries” and “Public libraries as promotors for adult reading”. He has also worked in environmental projects in Helsinki City Library. He has been active member of Environment, Sustainability and Libraries IFLA Special Interest Group (ENSULIB) since 2011 and was the convenor of the group 2015-2019 and secretary in 2020.  He is the chair of the ENSULIB section 2021–2023.
 
-Thursday, 17 November, 9:00 am to 5:00 pm **SINGAPORE TIME**
+**Thursday, 17 November, 9:00 am to 5:00 pm**(SINGAPORE TIME)
 
 **9:10 am – 10:05 am (inclusive of Q&A)** 
 
 # KEYNOTE 2
-# 
+
 # Where does the balance lie and are we there yet? Archival values versus saving the environment
 
 **Dr. Valerie Johnson**
@@ -515,7 +515,7 @@ Valerie is a Registered Member of the Society of Archivists, a Fellow of the Roy
 **SESSION 5A:  10:15 am – 11:45 am (inclusive of Q&A)**
 
 10:15 am – 10:40 am
-# 
+
 # Sustainability Principles applied on Archivistic Practice
 
 **Roberto Ricardo Carlos Grosse Junior, Manager of the Archive Preservation and Conservation Service, Senate of Brasil**
@@ -641,7 +641,7 @@ Defining an item’s Collection lifespan according to its \`Collection Value’ 
 **SESSION 6A: 11:55 am – 1:25 pm (inclusive of Q&A)**
 
 11:55 am – 12:20 pm
-# 
+
 # Greening of Singapore
 
 **Lim Tin Seng, Senior Librarian, National Library of Singapore**
@@ -776,7 +776,6 @@ Archives are vulnerable to the ravages of climate change. But it will be a chall
 **Benjamin Choo** obtained his PhD in history from the University of Cambridge in 2015. He specializes in international economic history. He is currently a senior lecturer at the Singapore University of Social Sciences. He previously taught history at Lingnan University in Hong Kong.
 
 2:50 pm – 3:15 pm
-
 # Selection & Self-Preservation
 
 **Mia Lee, Senior Lecturer, Singapore University of Social Sciences**
