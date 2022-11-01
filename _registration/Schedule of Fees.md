@@ -3,6 +3,9 @@ title: Schedule of Fees
 permalink: /fees/
 description: ""
 ---
+
+**Registration will close on 6 Nov 2022, 11.59pm GMT -12**
+
 Please click 
 [here](https://www.sarbica2022.sg/registration/ ) to register now!
 
@@ -18,4 +21,4 @@ Please click
 
 All prices quoted are subjected to 7% goods and services tax.
 
-Early bird rates has ended on 31 August 2022. We welcome registration on regular fees until 6 November 2022. 
+Early bird rates has ended on 31 August 2022. We welcome registration on regular fees until 6 November 2022.
