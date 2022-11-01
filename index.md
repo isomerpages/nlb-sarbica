@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/sarbica hero banner (1920 × 720 px) 3.png
-      button: Registration is now open!
+      button: "Registration will close on 6 Nov 2022, 11.59pm GMT -12 "
       url: "https://www.sarbica2022.sg/registration/ "
       key_highlights:
         - title: ""
