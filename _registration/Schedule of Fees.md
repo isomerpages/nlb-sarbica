@@ -3,7 +3,7 @@ title: Schedule of Fees
 permalink: /fees/
 description: ""
 ---
-**Hurry Now! Registration will close on 6 Nov 2022, 11.59pm GMT -12**
+**Registration will close on 6 Nov 2022, 11.59pm GMT -12**
 
 Please click 
 [here](https://www.sarbica2022.sg/registration/ ) to register now!
