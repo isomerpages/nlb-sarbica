@@ -3,7 +3,7 @@ title: Schedule of Fees
 permalink: /fees/
 description: ""
 ---
-# **Registration for this symposium is now closed.**
+##### **Registration for this symposium is now closed.**
 
 
 | Registration Categories || Regular (SGD) |
