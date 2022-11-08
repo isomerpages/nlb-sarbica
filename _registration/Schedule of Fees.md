@@ -3,10 +3,8 @@ title: Schedule of Fees
 permalink: /fees/
 description: ""
 ---
-**Registration will close on 6 Nov 2022, 11.59pm GMT -12**
+##### **Registration for this symposium is now closed.**
 
-Please click 
-[here](https://www.sarbica2022.sg/registration/ ) to register now!
 
 | Registration Categories || Regular (SGD) |
 | -------- | -------- | -------- |
