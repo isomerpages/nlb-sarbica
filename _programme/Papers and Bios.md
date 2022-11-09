@@ -536,7 +536,7 @@ These and other actions make the Federal Senate a standard in the so-called “g
 
 **Bio:**
 
-TBA
+**Roberto Ricardo Carlos Grosse Junior** is an Archivist with the Senate of Brazil and an Environmental Management Specialist. He is responsible for Archive Conservation  and Preservation Service, and the Restorers’ team. He is studying for a Master in Ecology degree.
 
 10:40 am – 11:05 am
 
