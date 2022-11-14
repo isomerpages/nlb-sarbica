@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/sarbica hero banner (1920 × 720 px) 3.png
-      button: Registration is Closed
-      url: "https://www.sarbica2022.sg/registration/ "
+      button: "Registration is closed. For registered participants, pls click here "
+      url: https://event.sarbica2022.sg/
       key_highlights:
         - title: ""
           description: ""
